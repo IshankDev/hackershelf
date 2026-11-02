@@ -508,6 +508,14 @@ body {
     color: var(--hn-orange);
 }
 
+.about-content a.btn {
+    color: white;
+}
+
+.about-content a.btn:hover {
+    color: white;
+}
+
 /* Footer */
 .footer {
     border-top: 1px solid var(--border);

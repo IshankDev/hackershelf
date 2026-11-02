@@ -390,6 +390,10 @@ function renderAbout() {
             <p><strong>Inspiration:</strong> <a href="https://hackertube.org" target="_blank">HackerTube</a> by Andrej Karpathy</p>
             <p><strong>License:</strong> This dataset is released under ODC-By 1.0. HN comments remain the work of their respective authors.</p>
             
+            <h2>About the Developer</h2>
+            <p>Built by <a href="https://ishankdev.github.io/" target="_blank" rel="noopener noreferrer">Ishank</a>.</p>
+            <p><a href="https://ishankdev.github.io/" target="_blank" rel="noopener noreferrer" class="btn">Visit Developer Site →</a></p>
+            
             <h2>Download Data</h2>
             <p>The complete dataset is available for download:</p>
             <p><a href="./download/hackershelf-data.zip" class="btn">Download hackershelf-data.zip</a></p>
