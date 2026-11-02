@@ -1,0 +1,11 @@
+.env
+data/raw/
+*.parquet
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+ENV/
+node_modules/
+.DS_Store

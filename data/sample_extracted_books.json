@@ -1,0 +1,46 @@
+{
+  "43237264": {
+    "books": [
+      {
+        "title": "A Psalm for the Wild-Built",
+        "author": "Becky Chambers",
+        "stance": "strong_rec",
+        "why": "Perfect dose of solarpunk optimism and comfort",
+        "quote": "a nice cup of tea and a warm blanket for the soul in sci-fi form"
+      }
+    ]
+  },
+  "43303864": {
+    "books": [
+      {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "stance": "rec",
+        "why": "Essential software craftsmanship guide",
+        "quote": "still relevant after 25 years"
+      }
+    ]
+  },
+  "43304740": {
+    "books": [
+      {
+        "title": "Gödel, Escher, Bach",
+        "author": "Douglas Hofstadter",
+        "stance": "strong_rec",
+        "why": "Mind-bending exploration of consciousness and recursion",
+        "quote": "changed how I think about thinking"
+      }
+    ]
+  },
+  "43350245": {
+    "books": [
+      {
+        "title": "The Design of Everyday Things",
+        "author": "Don Norman",
+        "stance": "rec",
+        "why": "Classic on user-centered design principles",
+        "quote": "explains why doors are confusing"
+      }
+    ]
+  }
+}
