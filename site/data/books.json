@@ -1,123 +1,881 @@
 [
   {
-    "work_key": "OL5748544W",
-    "title": "The Pragmatic Programmer",
-    "author": "Andy Hunt",
-    "first_publish_year": 1999,
-    "cover_id": 10143650,
-    "summary": "A practical guide to software craftsmanship and best practices for professional programmers. Covers topics from code organization to career development.",
-    "why_hn": "HN readers appreciate its timeless advice on writing maintainable code and thinking like a pragmatic developer.",
-    "level": "intermediate",
-    "kind": "technical",
-    "topics": [
-      "Software Engineering",
-      "Best Practices",
-      "Programming"
-    ],
-    "categories": [
-      "Programming",
-      "Software Engineering"
-    ],
-    "score": 10,
-    "recommender_count": 6,
-    "mention_count": 6,
-    "strong_rec_count": 2
-  },
-  {
-    "work_key": "OL17618370W",
-    "title": "Clean Code",
-    "author": "Robert C. Martin",
-    "first_publish_year": 2008,
-    "cover_id": 8065615,
-    "summary": "Uncle Bob's principles for writing readable, maintainable code that other developers can understand. Focuses on naming, functions, and code organization.",
-    "why_hn": "Widely recommended for learning how to write code that doesn't just work, but is clean and maintainable.",
-    "level": "intermediate",
-    "kind": "technical",
-    "topics": [
-      "Software Engineering",
-      "Best Practices",
-      "Programming"
-    ],
-    "categories": [
-      "Programming",
-      "Software Engineering"
-    ],
-    "score": 10,
-    "recommender_count": 6,
-    "mention_count": 6,
-    "strong_rec_count": 2
-  },
-  {
     "work_key": "OL19293745W",
     "title": "Designing Data-Intensive Applications",
     "author": "Martin Kleppmann",
     "first_publish_year": 2017,
     "cover_id": 8434671,
-    "summary": "Comprehensive guide to the architecture and principles behind modern distributed data systems. Covers databases, streaming, and batch processing.",
-    "why_hn": "The go-to reference for engineers building scalable systems and working with distributed data.",
-    "level": "advanced",
+    "summary": "Designing Data-Intensive Applications by Martin Kleppmann provides a comprehensive guide to building reliable, scalable, and maintainable data systems. It breaks down complex architectural patterns and distributed systems concepts into digestible insights.",
+    "why_hn": "Hacker News readers strongly recommend it for its ability to intuitively explain how databases work and lay down solid foundations in distributed systems.",
+    "level": "intermediate",
     "kind": "technical",
     "topics": [
-      "Distributed Systems",
-      "Architecture",
-      "Scalability"
+      "distributed systems",
+      "databases",
+      "data architecture",
+      "scalability"
     ],
     "categories": [
       "Computer Science",
-      "Systems"
+      "Programming"
     ],
-    "score": 9,
-    "recommender_count": 5,
-    "mention_count": 5,
-    "strong_rec_count": 2
+    "score": 31,
+    "recommender_count": 13,
+    "mention_count": 14,
+    "strong_rec_count": 9
   },
   {
-    "work_key": "OL16806686W",
-    "title": "The Phoenix Project",
-    "author": "Gene Kim",
-    "first_publish_year": 2013,
-    "cover_id": 9151976,
-    "summary": "A novel about IT transformation, DevOps principles, and improving flow in software organizations. Follows a struggling IT department's turnaround.",
-    "why_hn": "Makes complex DevOps and organizational principles accessible through an engaging story.",
-    "level": "intermediate",
-    "kind": "business",
-    "topics": [
-      "Project Management",
-      "Teams",
-      "Leadership"
-    ],
-    "categories": [
-      "Business",
-      "Management"
-    ],
-    "score": 9,
-    "recommender_count": 5,
-    "mention_count": 5,
-    "strong_rec_count": 2
-  },
-  {
-    "work_key": "OL716850W",
-    "title": "G\u00f6del, Escher, Bach",
-    "author": "Douglas R. Hofstadter",
-    "first_publish_year": 1979,
-    "cover_id": 14368453,
-    "summary": "An exploration of consciousness, self-reference, and formal systems through the work of G\u00f6del, Escher, and Bach. A playful journey through recursion and meaning.",
-    "why_hn": "A cult classic that resonates with programmers interested in the deep connections between math, art, and computation.",
+    "work_key": "OL137916W",
+    "title": "Amusing Ourselves to Death",
+    "author": "Neil Postman",
+    "first_publish_year": 1985,
+    "cover_id": 94285,
+    "summary": "Neil Postman's influential critique explores how the shift from a print-based culture to an electronically driven medium dominated by television has transformed public discourse into mere entertainment. It argues that society's surrender to amusement poses a greater threat to freedom and truth than overt censorship.",
+    "why_hn": "Hacker News readers strongly recommend it as an enduring, clarifying analysis for understanding how modern media and communication mediums pollute critical thinking and shape our current information age.",
     "level": "intro",
     "kind": "philosophy",
     "topics": [
-      "Philosophy",
-      "Mathematics",
-      "Cognitive Science"
+      "media theory",
+      "public discourse",
+      "entertainment",
+      "communication mediums",
+      "critical thinking"
     ],
     "categories": [
-      "Philosophy",
+      "AI & Machine Learning",
+      "Philosophy"
+    ],
+    "score": 29,
+    "recommender_count": 11,
+    "mention_count": 11,
+    "strong_rec_count": 9
+  },
+  {
+    "work_key": "OL2617750W",
+    "title": "The making of the atomic bomb",
+    "author": "Richard Rhodes",
+    "first_publish_year": 1986,
+    "cover_id": 6919988,
+    "summary": "Richard Rhodes' Pulitzer Prize-winning book chronicles the scientific discoveries, political pressures, and military decisions that led to the creation of the atomic bomb. It provides a comprehensive narrative spanning from early 20th-century physics breakthroughs to the Manhattan Project and the end of World War II.",
+    "why_hn": "Hacker News readers heavily praise it as an absolute masterpiece and one of the best histories of the Manhattan Project, valuing its in-depth technical explanations of nuclear physics alongside its profound insights into ethics and decision-making.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "manhattan project",
+      "nuclear physics",
+      "world war ii",
+      "history of science",
+      "ethics"
+    ],
+    "categories": [
+      "Science",
+      "History",
+      "Philosophy"
+    ],
+    "score": 27,
+    "recommender_count": 11,
+    "mention_count": 12,
+    "strong_rec_count": 8
+  },
+  {
+    "work_key": "OL115336W",
+    "title": "Permutation City",
+    "author": "Greg Egan",
+    "first_publish_year": 1994,
+    "cover_id": 1000639,
+    "summary": "Set in a future where digital consciousness is possible, the novel explores the simulation of living minds and the nature of reality. It delves deep into philosophical and technical thought experiments regarding computation, identity, and the universe.",
+    "why_hn": "Hacker News readers strongly recommend it for its deeply technical approach to hard science fiction and its profound thought experiments on consciousness, CPU cycle limits, and digital existence.",
+    "level": "intermediate",
+    "kind": "fiction",
+    "topics": [
+      "artificial intelligence",
+      "consciousness",
+      "digital simulation",
+      "hard science fiction",
+      "computation"
+    ],
+    "categories": [
+      "Fiction",
+      "AI & Machine Learning"
+    ],
+    "score": 27,
+    "recommender_count": 11,
+    "mention_count": 11,
+    "strong_rec_count": 8
+  },
+  {
+    "work_key": "OL23982116W",
+    "title": "The mom test",
+    "author": " Rob Fitzpatrick",
+    "first_publish_year": 2014,
+    "cover_id": 10660557,
+    "summary": "The Mom Test by Rob Fitzpatrick is a practical guide for entrepreneurs on how to talk to customers and validate early-stage product ideas without falling victim to polite lies. It provides actionable strategies to extract honest feedback and meaningful insights during user interviews.",
+    "why_hn": "Hacker News readers heavily recommend it as an essential, no-nonsense manual for engineers and would-be founders to master customer discovery and navigate product-market fit.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "customer development",
+      "user interviews",
+      "product validation"
+    ],
+    "categories": [
+      "Business",
+      "Programming"
+    ],
+    "score": 26,
+    "recommender_count": 10,
+    "mention_count": 10,
+    "strong_rec_count": 8
+  },
+  {
+    "work_key": "OL21221785W",
+    "title": "A Philosophy of Software Design",
+    "author": "John K. Ousterhout",
+    "first_publish_year": 2018,
+    "cover_id": 10352230,
+    "summary": "This book offers a practical guide to software design focused primarily on managing and minimizing complexity. It introduces key architectural concepts such as deep versus shallow modules to help developers write cleaner, more maintainable code.",
+    "why_hn": "HN readers overwhelmingly recommend it as one of the best books on programming for its actionable insights on reducing software complexity and designing deep modules.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "software design",
+      "complexity management",
+      "module depth"
+    ],
+    "categories": [
+      "Business",
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 25,
+    "recommender_count": 9,
+    "mention_count": 11,
+    "strong_rec_count": 8
+  },
+  {
+    "work_key": "OL8514692W",
+    "title": "Blindsight",
+    "author": "Peter Watts",
+    "first_publish_year": 2006,
+    "cover_id": 524560,
+    "summary": "Blindsight by Peter Watts is a hard science fiction novel that explores the concepts of intelligence, consciousness, and what it means to be sentient through a first-contact scenario with mysterious aliens. The plot follows a specialized crew investigating an extraterrestrial signal, featuring advanced scientific concepts like using cyclotrons to separate asteroid materials.",
+    "why_hn": "Hacker News readers strongly recommend it as a thought-provoking firehose of hard sci-fi concepts that brilliantly meditates on the distinction between thinking and consciousness.",
+    "level": "intermediate",
+    "kind": "fiction",
+    "topics": [
+      "consciousness",
+      "artificial intelligence",
+      "hard science fiction",
+      "first contact",
+      "neuroscience"
+    ],
+    "categories": [
+      "Fiction",
+      "AI & Machine Learning"
+    ],
+    "score": 23,
+    "recommender_count": 11,
+    "mention_count": 11,
+    "strong_rec_count": 6
+  },
+  {
+    "work_key": "OL27846746W",
+    "title": "Chip War",
+    "author": "Chris Miller",
+    "first_publish_year": 2022,
+    "cover_id": 12968901,
+    "summary": "Chip War by Chris Miller explores the critical history and modern geopolitics of the semiconductor industry. It details the crucial role of chip manufacturing, supply chains, and key players like TSMC and Morris Chang.",
+    "why_hn": "HN readers strongly recommend it as a page-turning, dense, and very readable account that reveals just how vital semiconductor technology is to the global economy.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "semiconductors",
+      "supply chain",
+      "TSMC",
+      "lithography",
+      "geopolitics"
+    ],
+    "categories": [
+      "AI & Machine Learning",
+      "History"
+    ],
+    "score": 23,
+    "recommender_count": 9,
+    "mention_count": 9,
+    "strong_rec_count": 7
+  },
+  {
+    "work_key": "OL11326416W",
+    "title": "1984 (adaptation)",
+    "author": "Michael Dean",
+    "first_publish_year": 2003,
+    "cover_id": 8745958,
+    "summary": "This graphic novel adaptation of George Orwell's classic dystopian masterpiece depicts a totalitarian regime that enforces total conformity and surveillance. It serves as a stark warning against the erosion of truth, privacy, and individual freedom.",
+    "why_hn": "Hacker News readers strongly recommend it as an essential, brutally direct exploration of authoritarianism, state surveillance, and the importance of preserving liberty.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "surveillance",
+      "authoritarianism",
+      "liberty",
+      "dystopia"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 22,
+    "recommender_count": 10,
+    "mention_count": 10,
+    "strong_rec_count": 6
+  },
+  {
+    "work_key": "OL17373843W",
+    "title": "Children of Time",
+    "author": "Adrian Tchaikovsky",
+    "first_publish_year": 2015,
+    "cover_id": 8264706,
+    "summary": "This science fiction novel explores the epic evolution of hyper-intelligent jumping spiders and other species on a terraformed planet over vast spans of time. It contrasts their developing civilization with the remnants of a dying humanity struggling for survival.",
+    "why_hn": "Hacker News readers heavily recommend it for its captivating exploration of believable non-human minds, evolutionary biology, and deep questions regarding morality, intelligence, and what it means to be human.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "evolution",
+      "non-human intelligence",
+      "science fiction",
+      "survival",
+      "morality"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 21,
+    "recommender_count": 11,
+    "mention_count": 11,
+    "strong_rec_count": 5
+  },
+  {
+    "work_key": "OL38501W",
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "first_publish_year": 1992,
+    "cover_id": 392508,
+    "summary": "Set in a hyper-capitalist, balkanized future America, a hacker-courier named Hiro Protagonist must stop a computer virus called Snow Crash from destroying humanity in both the real world and the Metaverse. Written like a fast-paced graphic novel, the story uniquely weaves together cutting-edge tech concepts like virtual reality and pizza delivery with deep dives into ancient Sumerian history and mythology.",
+    "why_hn": "Hacker News readers love the book for its mind-blowing cyberpunk world-building, compelling characters, and rare integration of early historical mythologies into a sci-fi narrative.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "cyberpunk",
+      "virtual reality",
+      "science fiction",
+      "mythology",
+      "metaverse"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 21,
+    "recommender_count": 9,
+    "mention_count": 9,
+    "strong_rec_count": 6
+  },
+  {
+    "work_key": "OL98218W",
+    "title": "The Soul of a New Machine",
+    "author": "Tracy Kidder",
+    "first_publish_year": 1981,
+    "cover_id": 5290886,
+    "summary": "Tracy Kidder's classic book chronicles the intense, high-stakes race within Data General to design and build a competitive 32-bit minicomputer in the late 1970s. It provides an intimate look at the brilliant engineering teams and the profound human cost involved in pushing technological boundaries.",
+    "why_hn": "Hacker News readers passionately recommend it as a timeless masterpiece that captures the reality of engineering culture, showing that while technology changes, the human dynamics and pressures of building hardware remain remarkably the same.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "computer history",
+      "engineering culture",
+      "Data General",
+      "hardware design",
+      "project management"
+    ],
+    "categories": [
+      "History",
+      "Business"
+    ],
+    "score": 20,
+    "recommender_count": 8,
+    "mention_count": 8,
+    "strong_rec_count": 6
+  },
+  {
+    "work_key": "OL20743446W",
+    "title": "Statistical Rethinking",
+    "author": "Richard McElreath",
+    "first_publish_year": 2015,
+    "cover_id": 15127873,
+    "summary": "Statistical Rethinking by Richard McElreath offers a practical guide to Bayesian data analysis using examples in R and Stan. It emphasizes the foundational mechanics of how statistical models and scientific reasoning work together.",
+    "why_hn": "Hacker News readers heavily recommend it as the best introductory and practical book for learning Bayesian analysis and how to properly think about modeling.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "Bayesian analysis",
+      "Statistics",
+      "Data modeling",
+      "R",
+      "Stan"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 19,
+    "recommender_count": 7,
+    "mention_count": 8,
+    "strong_rec_count": 6
+  },
+  {
+    "work_key": "OL1975705W",
+    "title": "A Deepness in the Sky (Zones of Thought)",
+    "author": "Vernor Vinge",
+    "first_publish_year": 1999,
+    "cover_id": 603591,
+    "summary": "This 2000 science fiction novel by Vernor Vinge explores complex themes of collectivism versus independence, featuring frozen alien planets, creepy mind control, and distributed computing. It is celebrated for its intricate world-building, such as the spider-like Underhill aliens, and features an unexpected reference to seconds since the epoch.",
+    "why_hn": "HN readers strongly recommend the book for its logical structure, engaging exploration of technical and philosophical concepts like focus and mind control, and its captivating storytelling.",
+    "level": "intermediate",
+    "kind": "fiction",
+    "topics": [
+      "collectivism",
+      "distributed computing",
+      "mind control",
+      "science fiction",
+      "alien civilizations"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 19,
+    "recommender_count": 7,
+    "mention_count": 7,
+    "strong_rec_count": 6
+  },
+  {
+    "work_key": "OL4037585W",
+    "title": "Cadillac desert",
+    "author": "Marc Reisner",
+    "first_publish_year": 1986,
+    "cover_id": 96894,
+    "summary": "Cadillac Desert by Marc Reisner chronicles the history and immense scale of water projects and resource management in the American West. It details the ecological consequences, political maneuvering, and historical miscalculations that shaped water allocation in arid regions.",
+    "why_hn": "HN readers enthusiastically recommend it as an engaging, highly readable, and essential historical introduction to the complex realities of western US water issues and infrastructure.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "water management",
+      "american west",
+      "infrastructure",
+      "environmental history"
+    ],
+    "categories": [
+      "History",
+      "Business"
+    ],
+    "score": 19,
+    "recommender_count": 7,
+    "mention_count": 8,
+    "strong_rec_count": 6
+  },
+  {
+    "work_key": "OL19663289W",
+    "title": "The vital question",
+    "author": "Nick Lane",
+    "first_publish_year": 2001,
+    "cover_id": 10014850,
+    "summary": "The Vital Question by Nick Lane explores the fundamental bioenergetic drivers behind the origin of life and the evolution of complex cells. It presents compelling genetic and energetic evidence detailing the hypothetical route to eukaryotic endosymbiosis.",
+    "why_hn": "HN readers recommend it for offering a systemic, highly engaging introduction to the origin of life and biological complexification.",
+    "level": "intermediate",
+    "kind": "science",
+    "topics": [
+      "origin of life",
+      "bioenergetics",
+      "evolution",
+      "eukaryotic endosymbiosis",
+      "biology"
+    ],
+    "categories": [
       "Science"
     ],
-    "score": 9,
+    "score": 18,
+    "recommender_count": 6,
+    "mention_count": 6,
+    "strong_rec_count": 6
+  },
+  {
+    "work_key": "OL17079567W",
+    "title": "Being Mortal",
+    "author": "Atul Gawande",
+    "first_publish_year": 2014,
+    "cover_id": 8477368,
+    "summary": "Atul Gawande's 'Being Mortal' explores the realities of aging, serious illness, and the medical system's tendency to overtreat patients with bleak prognoses. It advocates for shifting the focus of end-of-life care toward palliative measures that prioritize quality of life and what truly matters to patients.",
+    "why_hn": "Hacker News readers strongly recommend it for providing profound insights into elder care, helping process family deaths, and reframing how we approach modern medicine and dying.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "aging",
+      "end-of-life care",
+      "palliative care",
+      "healthcare systems",
+      "medicine"
+    ],
+    "categories": [
+      "Science",
+      "Computer Science"
+    ],
+    "score": 17,
+    "recommender_count": 7,
+    "mention_count": 8,
+    "strong_rec_count": 5
+  },
+  {
+    "work_key": "OL36719480W",
+    "title": "Broken Money",
+    "author": "Lyn Alden",
+    "first_publish_year": 2023,
+    "cover_id": 15153544,
+    "summary": "Broken Money by Lyn Alden explores the evolution of monetary systems and financial technology throughout history. It examines how modern monetary policy has shifted over the decades, particularly analyzing the dynamics of the global financial system since 1971.",
+    "why_hn": "Hacker News readers highly recommend it for providing a solid narrative and improved mental models on money-as-technology, monetary policy, and the foundations of Bitcoin.",
+    "level": "intermediate",
+    "kind": "business",
+    "topics": [
+      "monetary policy",
+      "financial history",
+      "money-as-technology",
+      "fiat currency",
+      "bitcoin"
+    ],
+    "categories": [
+      "Business",
+      "History"
+    ],
+    "score": 17,
+    "recommender_count": 7,
+    "mention_count": 7,
+    "strong_rec_count": 5
+  },
+  {
+    "work_key": "OL42735465W",
+    "title": "Careless People",
+    "author": "Sarah Wynn-Williams",
+    "first_publish_year": 2025,
+    "cover_id": 14852090,
+    "summary": "Written by an ex-Facebook executive, \"Careless People\" provides an insider account of corporate culture, unethical practices, and the alarming real-world impacts of major tech platforms like Facebook and Instagram. It serves as a compelling expos\u00e9 on the inner workings of big tech leadership and decision-making.",
+    "why_hn": "HN readers recommend it because it offers eye-opening, firsthand documentation of corporate misconduct and toxic tech executive culture.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "facebook",
+      "corporate culture",
+      "tech ethics"
+    ],
+    "categories": [
+      "Business",
+      "Philosophy"
+    ],
+    "score": 16,
+    "recommender_count": 8,
+    "mention_count": 8,
+    "strong_rec_count": 4
+  },
+  {
+    "work_key": "OL3741565W",
+    "title": "The Cuckoo\u2019s Egg",
+    "author": "Clifford Stoll",
+    "first_publish_year": 1989,
+    "cover_id": 7880307,
+    "summary": "This is a first-person account detailing astronomer-turned-system-administrator Clifford Stoll's pursuit of a computer hacker who breached Lawrence Berkeley Laboratory in the 1980s. It chronicles the early days of cybersecurity investigation through persistence, clever tracking, and analog detective work.",
+    "why_hn": "Hacker News readers enthusiastically recommend it because it serves as a nostalgic, highly engaging formative text that inspires careers in IT and cybersecurity while holding up exceptionally well over time.",
+    "level": "intro",
+    "kind": "technical",
+    "topics": [
+      "cybersecurity",
+      "history of computing",
+      "networking"
+    ],
+    "categories": [
+      "History",
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 15,
     "recommender_count": 5,
     "mention_count": 5,
-    "strong_rec_count": 2
+    "strong_rec_count": 5
+  },
+  {
+    "work_key": "OL872932W",
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "first_publish_year": 1922,
+    "cover_id": 6562535,
+    "summary": "This classic novel follows a young man named Siddhartha on his spiritual journey of self-discovery during the time of the Buddha. Through various phases of asceticism, worldly pleasure, and ultimate self-reliance, he seeks to find inner peace and enlightenment.",
+    "why_hn": "Hacker News readers frequently recommend it as a life-changing, highly engaging classic that resonates deeply with individuals on a philosophical and personal level.",
+    "level": "intro",
+    "kind": "philosophy",
+    "topics": [
+      "spirituality",
+      "self-discovery",
+      "philosophy",
+      "classic literature",
+      "personal growth"
+    ],
+    "categories": [
+      "Philosophy"
+    ],
+    "score": 15,
+    "recommender_count": 7,
+    "mention_count": 7,
+    "strong_rec_count": 4
+  },
+  {
+    "work_key": "OL14911626W",
+    "title": "Anathem",
+    "author": "Neal Stephenson",
+    "first_publish_year": 2008,
+    "cover_id": 6304233,
+    "summary": "Set in a world where intellectual monastic orders live apart from secular society, a young mathematician must leave his cloister to face an imminent existential threat. This sprawling sci-fi epic explores deep themes in philosophy, quantum mechanics, and linguistics.",
+    "why_hn": "HN readers frequently recommend Anathem as Neal Stephenson's best overall work, praising its rare combination of intellectual depth, staying power, and a genuinely satisfying conclusion.",
+    "level": "intermediate",
+    "kind": "fiction",
+    "topics": [
+      "philosophy",
+      "mathematics",
+      "quantum mechanics",
+      "science fiction",
+      "worldbuilding"
+    ],
+    "categories": [
+      "Science",
+      "Fiction",
+      "Philosophy"
+    ],
+    "score": 15,
+    "recommender_count": 7,
+    "mention_count": 7,
+    "strong_rec_count": 4
+  },
+  {
+    "work_key": "OL59863W",
+    "title": "The Dispossessed",
+    "author": "Ursula K. Le Guin",
+    "first_publish_year": 1974,
+    "cover_id": 6979680,
+    "summary": "Set within the Hainish universe, the novel follows a physicist who travels from his anarchist utopian home world to a capitalist sister planet. It explores the complexities, struggles, and practical realities of living under contrasting political and economic systems.",
+    "why_hn": "HN readers highly recommend it as one of Ursula K. Le Guin's finest works and a brilliant, thought-provoking exploration of anarchism in practice through a science fiction lens.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "anarchism",
+      "science fiction",
+      "political philosophy",
+      "utopia and dystopia"
+    ],
+    "categories": [
+      "Fiction",
+      "Philosophy"
+    ],
+    "score": 15,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 5
+  },
+  {
+    "work_key": "OL26124818W",
+    "title": "Crafting Interpreters",
+    "author": "Robert Nystrom",
+    "first_publish_year": 2021,
+    "cover_id": 12075000,
+    "summary": "Crafting Interpreters by Robert Nystrom is a practical guide that walks readers through building two complete interpreters for a new programming language from scratch. It covers foundational concepts like parsing, tree-walking, and bytecode virtual machines with clear explanations and real code.",
+    "why_hn": "HN readers strongly recommend it because it is a fantastic, well-crafted, and practically helpful free online resource that makes the complex topic of writing interpreters deeply engaging and accessible.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "interpreters",
+      "compilers",
+      "programming languages",
+      "virtual machines",
+      "parsing"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 15,
+    "recommender_count": 7,
+    "mention_count": 7,
+    "strong_rec_count": 4
+  },
+  {
+    "work_key": "OL24593432W",
+    "title": "Dungeon Crawler Carl",
+    "author": "Matt Dinniman",
+    "first_publish_year": 2020,
+    "cover_id": 15143022,
+    "summary": "Dungeon Crawler Carl follows the titular character and his ex-girlfriend's prize-winning Persian cat as they survive a brutal, televised alien apocalypse within a massive subterranean labyrinth. Utilizing a game-like LitRPG progression system, they must battle monstrous entities while subverting the sadistic entertainment demands of the galactic viewers.",
+    "why_hn": "Hacker News readers heavily recommend the series for its exceptional comedic sci-fi satire, fast-paced storytelling, memorable characters, and a standout audiobook performance that turns even reluctant readers into fans.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "science fiction",
+      "comedy",
+      "LitRPG",
+      "satire",
+      "audiobook"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 15,
+    "recommender_count": 7,
+    "mention_count": 7,
+    "strong_rec_count": 4
+  },
+  {
+    "work_key": "OL15436462W",
+    "title": "The Checklist Manifesto",
+    "author": "Atul Gawande",
+    "first_publish_year": 2010,
+    "cover_id": 8231866,
+    "summary": "The Checklist Manifesto explores how the simple tool of the checklist can drastically reduce human error and improve safety in high-stakes fields. Atul Gawande draws on examples from aviation to demonstrate how structured checklists can be successfully adapted to complex environments like modern medicine.",
+    "why_hn": "Hacker News readers recommend it because it offers practical, operational advice on building robust systems and preventing failures in dynamic, high-pressure environments.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "checklists",
+      "aviation safety",
+      "medical care",
+      "systems design",
+      "error reduction"
+    ],
+    "categories": [
+      "Business",
+      "Computer Science"
+    ],
+    "score": 14,
+    "recommender_count": 6,
+    "mention_count": 7,
+    "strong_rec_count": 4
+  },
+  {
+    "work_key": "OL3494320W",
+    "title": "1491",
+    "author": "Charles C. Mann",
+    "first_publish_year": 2005,
+    "cover_id": 803118,
+    "summary": "Charles C. Mann's '1491' explores the history, populations, and advanced civilizations of the Americas before the arrival of Christopher Columbus. It synthesizes recent scientific and archaeological research to reshape our understanding of pre-Columbian Indigenous societies.",
+    "why_hn": "Hacker News readers heavily recommend it as an eye-opening, illuminating historical read that fundamentally challenges traditional narratives about the pre-contact Americas.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "Indigenous peoples of the Americas",
+      "pre-Columbian history",
+      "archaeology"
+    ],
+    "categories": [
+      "History"
+    ],
+    "score": 14,
+    "recommender_count": 4,
+    "mention_count": 5,
+    "strong_rec_count": 5
+  },
+  {
+    "work_key": "OL24557376W",
+    "title": "Man's Search for Meaning adapted for Young Adults [adaptation]",
+    "author": "Viktor Emil Frankl",
+    "first_publish_year": 2017,
+    "cover_id": 11203708,
+    "summary": "This adapted edition of Viktor E. Frankl's seminal work explores human resilience and the pursuit of purpose through his harrowing experiences in Nazi concentration camps. It offers profound psychological insights into how maintaining meaning in life acts as a vital survival mechanism and a cure for existential dread.",
+    "why_hn": "HN readers strongly recommend it as an eye-opening, introspective guide and a powerful cure for existential dread.",
+    "level": "intro",
+    "kind": "philosophy",
+    "topics": [
+      "existentialism",
+      "psychology",
+      "resilience",
+      "survival",
+      "meaning of life"
+    ],
+    "categories": [
+      "Philosophy"
+    ],
+    "score": 13,
+    "recommender_count": 7,
+    "mention_count": 7,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL16813331W",
+    "title": "Ignite Me",
+    "author": "Tahereh Mafi",
+    "first_publish_year": 2014,
+    "cover_id": 7272906,
+    "summary": "This book explores the history and chemistry of rocket propellants through the perspective of researchers trying to find effective fuels. It provides detailed technical information and fascinating trivia regarding rocket science.",
+    "why_hn": "HN readers strongly recommend it as an engaging and excellent read on rocketry and rocket fuel, even for those initially uninterested in the subject.",
+    "level": "intermediate",
+    "kind": "science",
+    "topics": [
+      "rocketry",
+      "rocket propellants",
+      "chemistry",
+      "history of science"
+    ],
+    "categories": [
+      "Science",
+      "History"
+    ],
+    "score": 13,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 4
+  },
+  {
+    "work_key": "OL2742235W",
+    "title": "On Writing Well",
+    "author": "William Knowlton Zinsser",
+    "first_publish_year": 1976,
+    "cover_id": 20450,
+    "summary": "William Zinsser's classic guide provides practical advice and timeless principles for crafting clear, engaging nonfiction prose. It emphasizes the importance of stripping away clutter and maintaining simplicity to communicate effectively with readers.",
+    "why_hn": "HN readers frequently recommend it as their favorite, recurring read for mastering crisp nonfiction writing and drastically improving personal communication styles.",
+    "level": "intro",
+    "kind": "other",
+    "topics": [
+      "writing",
+      "nonfiction",
+      "communication"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 13,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 4
+  },
+  {
+    "work_key": "OL27816125W",
+    "title": "Ultra-Processed People",
+    "author": "Chris van Tulleken",
+    "first_publish_year": 2023,
+    "cover_id": 14855712,
+    "summary": "Ultra-Processed People by Chris van Tulleken investigates how industrial food processing negatively impacts human biology and overall health. The book collates compelling evidence regarding the health effects of ultra-processed foods (UPF) and examines the role of food industry lobbying in our modern diet.",
+    "why_hn": "HN readers recommend it as an in-depth, well-evidenced resource for understanding the specific definition of ultra-processed foods and why modern food is worse for us than it was fifty years ago.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "nutrition",
+      "public health",
+      "food industry",
+      "biology",
+      "diet"
+    ],
+    "categories": [
+      "Science"
+    ],
+    "score": 13,
+    "recommender_count": 7,
+    "mention_count": 7,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL20153626W",
+    "title": "Bullshit Jobs",
+    "author": "David Graeber",
+    "first_publish_year": 2018,
+    "cover_id": 8798647,
+    "summary": "David Graeber's 'Bullshit Jobs' explores the proliferation of meaningless employment in modern capitalism where workers feel their roles add no value. It examines why these administrative and redundant positions exist despite economic pressures for efficiency.",
+    "why_hn": "Hacker News readers strongly recommend it for shedding light on perverse corporate incentive structures, bloated management, and why modern businesses often employ far more people than necessary to actually solve problems.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "capitalism",
+      "labor",
+      "management"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "score": 13,
+    "recommender_count": 7,
+    "mention_count": 7,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL265465W",
+    "title": "Longitude",
+    "author": "Dava Sobel",
+    "first_publish_year": 1995,
+    "cover_id": 13654,
+    "summary": "Longitude by Dava Sobel tells the dramatic history of how the centuries-old problem of determining a ship's exact location at sea was finally solved. It highlights John Harrison's painstaking life's work and the immense technical challenges involved in inventing the marine chronometer.",
+    "why_hn": "HN readers enthusiastically recommend it as a fascinating, page-turning narrative celebrating brilliant engineering and perseverance in solving a monumental historical challenge.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "marine chronometer",
+      "John Harrison",
+      "maritime navigation"
+    ],
+    "categories": [
+      "History"
+    ],
+    "score": 13,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 4
+  },
+  {
+    "work_key": "OL1063267W",
+    "title": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "first_publish_year": 1936,
+    "cover_id": 13314878,
+    "summary": "Dale Carnegie's classic guide provides timeless principles for improving communication, winning people over, and navigating social situations effectively. It emphasizes genuine interest in others, empathy, and practical interpersonal techniques to foster positive relationships.",
+    "why_hn": "Hacker News readers strongly recommend it as an impactful manual for developing essential empathy and optimizing human interaction.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "social skills",
+      "empathy",
+      "communication",
+      "interpersonal relationships",
+      "self-improvement"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "score": 13,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 4
+  },
+  {
+    "work_key": "OL627081W",
+    "title": "Pale Fire",
+    "author": "Vladimir Nabokov",
+    "first_publish_year": 1945,
+    "cover_id": 419852,
+    "summary": "Vladimir Nabokov's novel is presented as a 999-line epic poem written by the fictional poet John Shade, accompanied by an extensive and increasingly erratic commentary by his eccentric neighbor, Charles Kinbote. It is widely celebrated as an intricately constructed masterpiece of unreliable narration and literary puzzle-solving.",
+    "why_hn": "Hacker News readers passionately recommend it as a beautifully written, top-tier literary achievement that offers an engaging read and a brilliant case study in narrative structure.",
+    "level": "intermediate",
+    "kind": "fiction",
+    "topics": [
+      "literary fiction",
+      "unreliable narrator",
+      "metafiction",
+      "poetry",
+      "literary analysis"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 13,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 4
   },
   {
     "work_key": "OL15992072W",
@@ -125,94 +883,2844 @@
     "author": "Daniel Kahneman",
     "first_publish_year": 2011,
     "cover_id": 13290711,
-    "summary": "Nobel laureate Daniel Kahneman's exploration of the two systems that drive human thinking: fast intuition and slow deliberation. Reveals cognitive biases.",
-    "why_hn": "Essential for understanding decision-making, cognitive biases, and how we think about thinking.",
+    "summary": "Daniel Kahneman's foundational work explores the dual systems driving human thought: System 1 is fast, instinctive, and emotional, while System 2 is slower, more deliberative, and more logical. The book details how cognitive biases and mental shortcuts influence our decision-making in everyday life.",
+    "why_hn": "HN readers strongly recommend it for helping people understand how the brain tricks us, recognize cognitive errors, and improve decision-making.",
     "level": "intro",
     "kind": "science",
     "topics": [
-      "Psychology",
-      "Decision Making",
-      "Cognitive Science"
+      "psychology",
+      "cognitive biases",
+      "decision making"
+    ],
+    "categories": [
+      "Science"
+    ],
+    "score": 12,
+    "recommender_count": 4,
+    "mention_count": 5,
+    "strong_rec_count": 4
+  },
+  {
+    "work_key": "OL18819818W",
+    "title": "Never Split the Difference",
+    "author": "Chris Voss",
+    "first_publish_year": 2016,
+    "cover_id": 8365942,
+    "summary": "Written by former FBI lead international kidnapping negotiator Chris Voss, this book offers field-tested strategies and counter-intuitive tactics for high-stakes bargaining. It teaches readers how to navigate difficult conversations, leverage emotional intelligence, and secure favorable outcomes without compromising.",
+    "why_hn": "HN readers frequently recommend it because it is packed with actionable insights on bargaining, sales, cooperation, and decision-making.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "negotiation",
+      "sales",
+      "decision-making",
+      "bargaining",
+      "communication"
+    ],
+    "categories": [
+      "AI & Machine Learning",
+      "Business"
+    ],
+    "score": 12,
+    "recommender_count": 6,
+    "mention_count": 6,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL37575384W",
+    "title": "The Anxious Generation",
+    "author": "Jonathan Haidt",
+    "first_publish_year": 2024,
+    "cover_id": 15104803,
+    "summary": "Jonathan Haidt's 'The Anxious Generation' examines the profound and irreparable harm inflicted on children and teenagers by the rise of smartphones and social media. It details how algorithms specifically target formative brains, disrupting development and mental health.",
+    "why_hn": "HN readers recommend it as a vital, highly organized must-read for parents and individuals with ADHD to understand the scientifically backed damage modern technology does to younger generations.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "child psychology",
+      "social media harm",
+      "smartphone addiction",
+      "mental health",
+      "algorithm targeting"
     ],
     "categories": [
       "Science",
-      "Psychology"
+      "Computer Science"
     ],
-    "score": 9,
-    "recommender_count": 5,
-    "mention_count": 5,
-    "strong_rec_count": 2
+    "score": 12,
+    "recommender_count": 6,
+    "mention_count": 6,
+    "strong_rec_count": 3
   },
   {
-    "work_key": "OL3510570W",
-    "title": "The Mythical Man-Month",
-    "author": "Frederick P. Brooks",
-    "first_publish_year": 1974,
-    "cover_id": 6915361,
-    "summary": "Fred Brooks' classic on software project management, arguing that adding people to a late project makes it later. Full of timeless insights.",
-    "why_hn": "50 years old but still the most accurate description of software project realities.",
+    "work_key": "OL26241985W",
+    "title": "Seeing Like a State",
+    "author": "James C. Scott",
+    "first_publish_year": 1998,
+    "cover_id": 12242192,
+    "summary": "James C. Scott's classic work explores the fatal flaws of state-driven metrics, standardization, and data-driven planning. It delves deeply into the concepts of quantization and power, examining how large-scale social engineering projects often fail when imposing order on complex human societies.",
+    "why_hn": "Hacker News readers recommend it as an essential, non-partisan read that brilliantly explains standardization, power dynamics, and the inherent dangers of relying solely on data-driven metrics.",
     "level": "intermediate",
-    "kind": "business",
+    "kind": "history",
     "topics": [
-      "Project Management",
-      "Teams",
-      "Leadership"
+      "state planning",
+      "standardization",
+      "metrics",
+      "power",
+      "social engineering"
     ],
     "categories": [
-      "Business",
-      "Management"
+      "History"
     ],
-    "score": 9,
-    "recommender_count": 5,
-    "mention_count": 5,
-    "strong_rec_count": 2
+    "score": 12,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 4
   },
   {
-    "work_key": "OL20028554W",
-    "title": "Site Reliability Engineering",
-    "author": "Betsy Beyer",
-    "first_publish_year": 2016,
-    "cover_id": 9196682,
-    "summary": "Google's approach to building and running large-scale production systems. Covers SLIs, SLOs, incident response, and operational best practices.",
-    "why_hn": "The definitive guide to how Google runs its systems, written by actual Google SREs.",
-    "level": "advanced",
-    "kind": "technical",
-    "topics": [
-      "SRE",
-      "DevOps",
-      "Operations"
-    ],
-    "categories": [
-      "Computer Science",
-      "DevOps"
-    ],
-    "score": 9,
-    "recommender_count": 5,
-    "mention_count": 5,
-    "strong_rec_count": 2
-  },
-  {
-    "work_key": "OL22561871W",
-    "title": "A Psalm for the Wild-Built",
-    "author": "Becky Chambers",
-    "first_publish_year": 2021,
-    "cover_id": 10476616,
-    "summary": "A hopeful solarpunk novella about a tea monk who meets a robot in a world where humans and nature have found balance. Gentle and contemplative.",
-    "why_hn": "A refreshing dose of optimistic fiction that imagines a better future without being naive.",
+    "work_key": "OL1963268W",
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "first_publish_year": 1989,
+    "cover_id": 380332,
+    "summary": "Hyperion by Dan Simmons is a masterclass in science fiction that structures its narrative around a futuristic pilgrimage to the Time Tombs, drawing inspiration from Chaucer's Canterbury Tales. The series explores complex themes including advanced artificial intelligence, human co-dependence on technology, and the fate of humanity across four acclaimed books.",
+    "why_hn": "HN readers strongly recommend the book for its brilliant world-building and its insightful, thought-provoking exploration of artificial intelligence and human-AI co-dependence.",
     "level": "intro",
     "kind": "fiction",
     "topics": [
-      "Solarpunk",
-      "Hope",
-      "Nature"
+      "Artificial Intelligence",
+      "Science Fiction",
+      "Space Opera"
     ],
     "categories": [
       "Fiction",
-      "Science Fiction"
+      "AI & Machine Learning"
+    ],
+    "score": 12,
+    "recommender_count": 6,
+    "mention_count": 7,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL1185120W",
+    "title": "The art of doing science and engineering",
+    "author": "Richard Hamming",
+    "first_publish_year": 1996,
+    "cover_id": 14153910,
+    "summary": "Written by legendary mathematician and computer scientist Richard Hamming, this book shares timeless insights on how to tackle important problems and do landmark research. It offers a rare glimpse into the innovative culture and environment of Bell Labs.",
+    "why_hn": "HN readers strongly recommend it as an absolute must-read classic that provides valuable firsthand perspectives on scientific and engineering excellence.",
+    "level": "intermediate",
+    "kind": "science",
+    "topics": [
+      "scientific research",
+      "engineering",
+      "problem solving",
+      "Bell Labs culture"
+    ],
+    "categories": [
+      "Science"
+    ],
+    "score": 12,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 4
+  },
+  {
+    "work_key": "OL20599917W",
+    "title": "Sunburst and Luminary",
+    "author": "Don Eyles",
+    "first_publish_year": 2018,
+    "cover_id": 9240661,
+    "summary": "\"Sunburst and Luminary\" is a charming and lively memoir by Don Eyles, detailing his experiences as a pioneering software engineer on the Apollo lunar module computer team. It offers readers a unique historical glimpse into the development of critical Apollo software through an engaging and accessible personal lens.",
+    "why_hn": "HN readers enthusiastically recommend it as a fun, easy read that serves as both a technical pleasure and a fascinating snapshot of the Apollo engineering team.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "Apollo program",
+      "software engineering",
+      "memoir",
+      "history of computing",
+      "lunar module"
+    ],
+    "categories": [
+      "History",
+      "Programming"
+    ],
+    "score": 11,
+    "recommender_count": 3,
+    "mention_count": 5,
+    "strong_rec_count": 4
+  },
+  {
+    "work_key": "OL17930368W",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "first_publish_year": 2016,
+    "cover_id": 12539702,
+    "summary": "Atomic Habits by James Clear provides a practical and research-backed framework for breaking bad habits and building good ones through small, incremental changes. It breaks down the psychology of habit formation to show how minor adjustments compound over time into massive personal and professional transformations.",
+    "why_hn": "Hacker News readers recommend it as an easy-to-digest, scientifically grounded guide for effectively overcoming goal failure and implementing lasting behavioral changes.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "habit formation",
+      "personal development",
+      "behavioral psychology",
+      "productivity",
+      "compound growth"
+    ],
+    "categories": [
+      "Business",
+      "Programming"
+    ],
+    "score": 11,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL3267304W",
+    "title": "Structure and Interpretation of Computer Programs (SICP)",
+    "author": "Harold Abelson",
+    "first_publish_year": 1985,
+    "cover_id": 149338,
+    "summary": "This foundational computer science text explores programming principles and abstraction through the Scheme programming language. It delves into deep computational concepts, including state, time, and concurrency.",
+    "why_hn": "HN readers frequently recommend it as the ultimate first computer science book for its philosophical depth and elegant code examples, despite sparking debates and inspiring reactionary alternatives.",
+    "level": "intro",
+    "kind": "technical",
+    "topics": [
+      "computer science",
+      "abstraction",
+      "concurrency",
+      "Scheme",
+      "programming fundamentals"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 11,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL19650342W",
+    "title": "Game Programming Patterns",
+    "author": "Robert Nystrom",
+    "first_publish_year": 2011,
+    "cover_id": 8566115,
+    "summary": "Game Programming Patterns by Robert Nystrom explores how classic software design patterns can be applied to game development to solve common architectural challenges. It bridges the gap between traditional software engineering and game-specific constraints without resorting to messy hacks.",
+    "why_hn": "HN readers recommend it because it is an engaging, free resource that helps traditional software engineers smoothly transition into game development while serving as a lifelong career reference.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "game development",
+      "design patterns",
+      "software architecture"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 11,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL34024904W",
+    "title": "Techno-Feudalism",
+    "author": "Yanis Varoufakis",
+    "first_publish_year": 2023,
+    "cover_id": 15122209,
+    "summary": "Yanis Varoufakis argues that modern tech platforms have surpassed traditional capitalism, replacing free markets with a new form of digital feudalism centered around cloud capital. The book examines how users and merchants act as modern serfs generating free labor and rent for a handful of tech overlords.",
+    "why_hn": "Hacker News readers recommend it because it offers a provocative and timely perspective on cloud capitalism, explaining how digital platforms and modern cloud economies mirror feudal power structures.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "technofeudalism",
+      "cloud capitalism",
+      "platforms",
+      "economics"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "score": 11,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL24663287W",
+    "title": "The Dawn of Everything",
+    "author": "David Graeber",
+    "first_publish_year": 2021,
+    "cover_id": 11359192,
+    "summary": "The Dawn of Everything by David Graeber synthesizes recent anthropological and archaeological research to re-examine the history of human societies and political structures. It challenges conventional narratives about the inevitable progression from egalitarian bands to centralized states.",
+    "why_hn": "Hacker News readers strongly recommend it for upending traditional beliefs about human history by showcasing diverse historical political structures and experiments in decentralized authority.",
+    "level": "intermediate",
+    "kind": "history",
+    "topics": [
+      "anthropology",
+      "societal history",
+      "political structures"
+    ],
+    "categories": [
+      "History"
+    ],
+    "score": 11,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL23977983W",
+    "title": "Refactoring UI",
+    "author": "Adam Wathan",
+    "first_publish_year": 2018,
+    "cover_id": 10527062,
+    "summary": "Refactoring UI is a practical guide written by the creators of Tailwind CSS that offers actionable design tips and strategies for developers. It focuses on the subtleties of UI/UX design to help technical professionals build better-looking interfaces without needing a formal design background.",
+    "why_hn": "HN readers recommend it because it delivers immense, practical value through concrete UI design tips tailored specifically for developers.",
+    "level": "intro",
+    "kind": "technical",
+    "topics": [
+      "UI design",
+      "UX design",
+      "Tailwind CSS",
+      "frontend development",
+      "design tips"
+    ],
+    "categories": [
+      "AI & Machine Learning",
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 11,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL38499W",
+    "title": "The Diamond Age",
+    "author": "Neal Stephenson",
+    "first_publish_year": 1995,
+    "cover_id": 8598269,
+    "summary": "Set in a future nanotech-dominated society, the story follows a young girl who receives an interactive, illegal primer designed to foster independent thinking and subvert the social order. It is widely praised by readers for its rich world-building and abundance of visionary technological concepts.",
+    "why_hn": "HN readers enthusiastically recommend it as a favorite work by Neal Stephenson, highlighting its dense collection of off-handed conceptual gems and brilliant early-career science fiction storytelling.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "nanotechnology",
+      "cyberpunk",
+      "education",
+      "future society"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 11,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL1966488W",
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "first_publish_year": 1976,
+    "cover_id": 133936,
+    "summary": "Richard Dawkins' seminal 1976 work reframes evolutionary biology by placing the gene, rather than the organism or species, at the center of natural selection. It provides a gene-centric view of evolution that elucidates concepts like kin selection and adaptation with remarkable clarity.",
+    "why_hn": "HN readers passionately recommend it as a formative, paradigm-shifting text that makes complex evolutionary concepts feel almost obvious and captivating even when read in teenage years.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "evolution",
+      "genetics",
+      "kin selection",
+      "biology"
+    ],
+    "categories": [
+      "Science"
+    ],
+    "score": 11,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL27258W",
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "first_publish_year": 1984,
+    "cover_id": 283860,
+    "summary": "Neuromancer is a seminal cyberpunk novel that follows a washed-up computer hacker hired for one last massive run against a powerful artificial intelligence. William Gibson's visionary work defined the genre, introducing iconic concepts like cyberspace and corporate-dominated dystopias.",
+    "why_hn": "HN readers deeply resonate with its enduring cyberpunk magic, often re-reading it or listing it among their all-time favorite novels.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "cyberpunk",
+      "science fiction",
+      "artificial intelligence",
+      "hacker culture"
+    ],
+    "categories": [
+      "Fiction",
+      "AI & Machine Learning"
+    ],
+    "score": 11,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL5742702W",
+    "title": "Working effectively with legacy code",
+    "author": "Michael C. Feathers",
+    "first_publish_year": 2004,
+    "cover_id": 86561,
+    "summary": "This book serves as a definitive guide for developers dealing with old or poorly structured codebases. It provides step-by-step techniques and strategies for safely refactoring legacy code and covering it with tests.",
+    "why_hn": "HN readers strongly recommend it as the best practical guide for successfully refactoring legacy code and creating robust interfaces.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "refactoring",
+      "legacy code",
+      "testing"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 11,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL827357W",
+    "title": "Zen and the Art of Motorcycle Maintenance",
+    "author": "Robert M. Pirsig",
+    "first_publish_year": 1974,
+    "cover_id": 10673266,
+    "summary": "This classic philosophical novel follows a father and son on a motorcycle journey across the American West while exploring profound questions about values, meaning, and quality. It blends narrative storytelling with deep philosophical inquiry, challenging readers to rethink how they interact with technology and daily life.",
+    "why_hn": "HN readers strongly recommend it for its unexpected depth and its unique encouragement of the tinkering mindset, though some note that the philosophical concepts become progressively difficult.",
+    "level": "intermediate",
+    "kind": "philosophy",
+    "topics": [
+      "philosophy",
+      "tinkering",
+      "quality",
+      "technology",
+      "lifestyle"
+    ],
+    "categories": [
+      "Philosophy"
+    ],
+    "score": 11,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL35108677W",
+    "title": "A City on Mars",
+    "author": "Kelly Weinersmith",
+    "first_publish_year": 2023,
+    "cover_id": 14095692,
+    "summary": "\"A City on Mars\" by Kelly and Zach Weinersmith explores the logistical, legal, and biological realities of traveling to and colonizing Mars. The book offers a humorous yet thoroughly well-researched look at the actual feasibility of permanent planetary settlements.",
+    "why_hn": "Hacker News readers recommend the book because it provides a deeply researched, realistic, and humorous analysis of the immense challenges surrounding space colonization.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "Mars colonization",
+      "space settlement feasibility",
+      "astrophysics",
+      "space law",
+      "space biology"
+    ],
+    "categories": [
+      "Science"
+    ],
+    "score": 10,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL17829905W",
+    "title": "Seveneves",
+    "author": "Neal Stephenson",
+    "first_publish_year": 2015,
+    "cover_id": 9295719,
+    "summary": "When humanity faces an apocalyptic extinction event caused by the sudden shattering of the Moon, nations unite to launch a desperate orbital survival plan. Spanning generations of space-faring descendants, the novel explores the harsh realities of rebuilding civilization in the void.",
+    "why_hn": "Hacker News readers heavily recommend it for its incredible world-building and accessible narrative, though several suggest stopping before the final part.",
+    "level": "intermediate",
+    "kind": "fiction",
+    "topics": [
+      "space exploration",
+      "sci-fi",
+      "apocalypse",
+      "world-building"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 10,
+    "recommender_count": 6,
+    "mention_count": 6,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL1975714W",
+    "title": "A Fire upon the Deep",
+    "author": "Vernor Vinge",
+    "first_publish_year": 1992,
+    "cover_id": 9261466,
+    "summary": "This epic space opera explores a universe divided into concentric zones of thought where intelligence is constrained by physics. It features thrilling interplanetary conflicts and unforgettable alien species.",
+    "why_hn": "HN readers strongly recommend it for its incredible core ideas, exemplary logical structure, and masterful world-building.",
+    "level": "intermediate",
+    "kind": "fiction",
+    "topics": [
+      "hard science fiction",
+      "zones of thought",
+      "artificial intelligence",
+      "space opera"
+    ],
+    "categories": [
+      "Fiction",
+      "AI & Machine Learning"
+    ],
+    "score": 10,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL4100790W",
+    "title": "Most secret war",
+    "author": "Jones, R. V.",
+    "first_publish_year": 1978,
+    "cover_id": 7020405,
+    "summary": "Written by the scientific intelligence leader R. V. Jones, this first-hand account details the pivotal role of science and technology in British intelligence during World War II. It provides a nerdy, funny, and deeply detailed history of the scientific warfare and countermeasures deployed during the Battle of Britain.",
+    "why_hn": "HN readers strongly recommend this original book for its witty, first-hand perspective on wartime technical systems and scientific intelligence that still resonates today.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "World War II",
+      "scientific intelligence",
+      "military technology",
+      "Battle of Britain",
+      "wartime countermeasures"
+    ],
+    "categories": [
+      "AI & Machine Learning",
+      "History"
+    ],
+    "score": 10,
+    "recommender_count": 4,
+    "mention_count": 5,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL872773W",
+    "title": "Der Steppenwolf",
+    "author": "Hermann Hesse",
+    "first_publish_year": 1927,
+    "cover_id": 3221083,
+    "summary": "This classic novel follows Harry Haller, a man deeply alienated and torn between his human nature and his wolf-like isolation. Through a surreal journey of self-discovery, he confronts the duality of his soul and the complexities of modern existence.",
+    "why_hn": "Hacker News readers strongly recommend it for its remarkable resonance with those struggling with loneliness and its profound, timeless insights into the human condition.",
+    "level": "intermediate",
+    "kind": "fiction",
+    "topics": [
+      "loneliness",
+      "alienation",
+      "identity",
+      "existentialism"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 10,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL2463051W",
+    "title": "The goal",
+    "author": "Eliyahu M. Goldratt",
+    "first_publish_year": 1986,
+    "cover_id": 7262320,
+    "summary": "Written by Eliyahu M. Goldratt, \"The Goal\" presents management concepts through a narrative focused on operational and manufacturing environments. It introduces foundational ideas regarding system bottlenecks to help organizations improve efficiency and throughput.",
+    "why_hn": "Hacker News readers recommend it as an essential business and operational book for understanding the theory of constraints, optimizing distributed systems, and connecting manufacturing principles to Agile concepts.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "theory of constraints",
+      "manufacturing",
+      "Agile concepts",
+      "systems optimization"
+    ],
+    "categories": [
+      "AI & Machine Learning",
+      "Business",
+      "Computer Science"
+    ],
+    "score": 10,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL487444W",
+    "title": "How to Read a Book",
+    "author": "Mortimer J. Adler",
+    "first_publish_year": 1940,
+    "cover_id": 405381,
+    "summary": "How to Read a Book by Mortimer J. Adler is a comprehensive guide that teaches readers different strategies and levels for comprehending various types of literature. It provides practical techniques for effective reading, deep analysis, and improved note-taking.",
+    "why_hn": "HN readers strongly recommend it because it offers invaluable strategies for tackling difficult books and tailoring reading approaches to different types of material.",
+    "level": "intro",
+    "kind": "philosophy",
+    "topics": [
+      "reading strategies",
+      "comprehension",
+      "note-taking",
+      "critical thinking"
+    ],
+    "categories": [
+      "Philosophy"
     ],
     "score": 9,
     "recommender_count": 5,
     "mention_count": 5,
     "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL37518722W",
+    "title": "Not the End of the World",
+    "author": "Hannah Ritchie",
+    "first_publish_year": 2024,
+    "cover_id": 14566982,
+    "summary": "Authored by Hannah Ritchie from Our World in Data, this book offers a data-driven and optimistic perspective on the future of humanity and the environment. It challenges prevailing doomerism by showing how we can be the first generation to build a sustainable planet.",
+    "why_hn": "HN readers highly recommend it as a fantastic and pragmatic read that cuts through environmental pessimism with rigorous data and an uplifting stance.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "climate change",
+      "data science",
+      "sustainability",
+      "environment"
+    ],
+    "categories": [
+      "Science",
+      "AI & Machine Learning"
+    ],
+    "score": 9,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL25815646W",
+    "title": "An Immense World",
+    "author": "Ed Yong",
+    "first_publish_year": 2022,
+    "cover_id": 12835209,
+    "summary": "An Immense World by Ed Yong is a fantastic exploration of the diverse sensory modalities found in nature. It serves as a great tour through the fascinating and varied ways different animals perceive the world around them.",
+    "why_hn": "HN readers strongly recommend the book as an excellent, captivating tour that deeply covers the topic of animal senses and perception in nature.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "sensory modalities",
+      "animal senses",
+      "biology",
+      "nature"
+    ],
+    "categories": [
+      "Science"
+    ],
+    "score": 9,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL17713267W",
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "first_publish_year": 2016,
+    "cover_id": 7988607,
+    "summary": "Cal Newport's 'Deep Work' explores the ability to focus without distraction on cognitively demanding tasks. It provides strategies to cultivate this skill to rapidly produce elite results and create true value in a distracted world.",
+    "why_hn": "Hacker News readers strongly recommend it for providing crucial insights into productivity, managing attention, and producing genuinely valuable work.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "productivity",
+      "attention",
+      "deep work",
+      "focus"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "score": 9,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL164882W",
+    "title": "The Technological Society",
+    "author": "Jacques Ellul",
+    "first_publish_year": 1964,
+    "cover_id": 254052,
+    "summary": "Jacques Ellul's influential work examines how technique and technological systems dominate modern civilization, subordinating human values and social structures. It argues that efficiency and standardization have become the primary driving forces of society, reshaping human life at every level.",
+    "why_hn": "Hacker News readers strongly recommend it as a deeply prescient and essential alternative reading for understanding the profound, systemic impacts of technology beyond mere software or gadgets.",
+    "level": "advanced",
+    "kind": "philosophy",
+    "topics": [
+      "technology and society",
+      "sociology",
+      "technological determinism",
+      "philosophy of technique"
+    ],
+    "categories": [
+      "Philosophy"
+    ],
+    "score": 9,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL32525579W",
+    "title": "Crime and Punishment",
+    "author": "Michael R. Katz",
+    "first_publish_year": 1941,
+    "cover_id": 13116014,
+    "summary": "This classic novel follows the impoverished former student Raskolnikov in St. Petersburg as he contemplates and commits a heinous crime, leading to profound psychological torment and a struggle with his own conscience. Through its gripping narrative, the book delves deeply into themes of morality, redemption, and the complexities of the human mind.",
+    "why_hn": "Hacker News readers strongly recommend it for offering a uniquely immersive look into Dostoevsky's psychological genius, noting that it reads much smoother than his other works like 'The Brothers Karamazov'.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "psychological fiction",
+      "morality",
+      "redemption",
+      "classic literature"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 9,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL16564458W",
+    "title": "Trust Me, I'm Lying",
+    "author": "Ryan Holiday",
+    "first_publish_year": 2012,
+    "cover_id": 7888907,
+    "summary": "\"Trust Me, I'm Lying\" by Ryan Holiday provides a revealing insider look into the mechanics of modern guerrilla marketing and the online influence industry. Using concrete examples, the book exposes how the media ecosystem is manipulated for attention and profit.",
+    "why_hn": "HN readers strongly recommend it as a quintessential, insightful read for understanding the inner workings of online media manipulation and digital influence.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "marketing",
+      "media manipulation",
+      "online influence"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "score": 9,
+    "recommender_count": 3,
+    "mention_count": 4,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL2018966W",
+    "title": "Nonviolent Communication",
+    "author": "Marshall B. Rosenberg",
+    "first_publish_year": 1999,
+    "cover_id": 940686,
+    "summary": "\"Nonviolent Communication\" by Marshall B. Rosenberg presents a practical framework for expressing oneself and listening to others with honesty and empathy. It provides tools to navigate difficult conversations, resolve conflicts peacefully, and transform patterns of judgment and defensiveness.",
+    "why_hn": "Hacker News readers recommend it as an essential, wonderful guide for mastering interpersonal communication and emotional intelligence.",
+    "level": "intro",
+    "kind": "philosophy",
+    "topics": [
+      "communication",
+      "empathy",
+      "conflict resolution"
+    ],
+    "categories": [
+      "Philosophy"
+    ],
+    "score": 9,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL21745884W",
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "first_publish_year": 2021,
+    "cover_id": 11200092,
+    "summary": "Project Hail Mary by Andy Weir is a fast-paced science fiction novel about a lone astronaut tasked with saving humanity from an extinction-level event. Utilizing applied science and problem-solving, the protagonist must overcome seemingly insurmountable cosmic challenges.",
+    "why_hn": "Hacker News readers strongly recommend it for its engaging storytelling, fast-paced writing style, and satisfying experience in both reading and audio formats.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "applied science",
+      "space exploration",
+      "problem solving",
+      "survival"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 9,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL36866530W",
+    "title": "Style-The Basics Of Clarity And Grace",
+    "author": "Joseph M. Williams",
+    "first_publish_year": 2003,
+    "cover_id": null,
+    "summary": "Style: The Basics of Clarity and Grace by Joseph M. Williams offers well-balanced writing advice aimed at making prose clear and effective. It provides a sophisticated framework for understanding grammar and improving overall writing quality.",
+    "why_hn": "HN readers recommend it as an exceptional, advanced alternative to standard writing advice that teaches how to communicate ideas with greater clarity and effectiveness.",
+    "level": "advanced",
+    "kind": "other",
+    "topics": [
+      "writing",
+      "clarity",
+      "grammar",
+      "communication"
+    ],
+    "categories": [
+      "Other"
+    ],
+    "score": 9,
+    "recommender_count": 3,
+    "mention_count": 4,
+    "strong_rec_count": 3
+  },
+  {
+    "work_key": "OL29046628W",
+    "title": "Material World",
+    "author": "Ed Conway",
+    "first_publish_year": 2023,
+    "cover_id": 14591884,
+    "summary": "\"Material World\" by Ed Conway explores the fundamental physical substances\u2014such as sand, salt, iron, copper, oil, and silicon\u2014that underpin modern civilization and global supply chains. The book takes readers on a journey behind the scenes of everyday manufacturing to reveal the astonishing complexity and sheer scale of the materials extraction industry.",
+    "why_hn": "HN readers recommend it because it offers a fascinating, deep-dive perspective into the hidden physical foundations and supply chains of our technological society.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "supply chains",
+      "manufacturing",
+      "raw materials",
+      "sand industry",
+      "geopolitics"
+    ],
+    "categories": [
+      "Science",
+      "AI & Machine Learning"
+    ],
+    "score": 8,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL17845539W",
+    "title": "Turn the Ship Around!: A True Story of Turning Followers into Leaders",
+    "author": "L. David Marquet",
+    "first_publish_year": 2001,
+    "cover_id": 8142531,
+    "summary": "Turn the Ship Around! tells the true story of how Captain L. David Marquet transformed a struggling U.S. Navy submarine crew from passive followers into empowered leaders. By implementing an \"intent-based\" leadership model, he fostered a culture of personal responsibility and initiative across the entire ship.",
+    "why_hn": "HN readers strongly recommend it as a fantastic, fun, and highly influential guide that offers a valuable leadership perspective on modern management topics.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "leadership",
+      "management",
+      "culture",
+      "empowerment"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "score": 8,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL5957689W",
+    "title": "Masters of Doom",
+    "author": "David Kushner",
+    "first_publish_year": 2003,
+    "cover_id": 606299,
+    "summary": "Masters of Doom by David Kushner chronicles the meteoric rise and turbulent partnership of John Carmack and John Romero, the brilliant minds behind id Software. The book captures the creation of groundbreaking video games like Wolfenstein 3D and Doom that revolutionized the gaming industry.",
+    "why_hn": "Hacker News readers recommend it as a thrilling and essential history of id Software that details the culture, passion, and technical breakthroughs behind the creation of legendary games.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "gaming history",
+      "id software",
+      "programming",
+      "entrepreneurship"
+    ],
+    "categories": [
+      "History",
+      "Business",
+      "Programming"
+    ],
+    "score": 8,
+    "recommender_count": 6,
+    "mention_count": 6,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL1974548W",
+    "title": "Into Thin Air",
+    "author": "Jon Krakauer",
+    "first_publish_year": 1996,
+    "cover_id": 241603,
+    "summary": "This haunting book by Jon Krakauer chronicles the tragic 1996 Mount Everest disaster, offering a firsthand account of the deadly storm that trapped climbers near the summit. Utilizing a rapid and engaging narrative style, the author details the human and environmental factors that led to the catastrophe.",
+    "why_hn": "HN readers recommend it for its haunting, fantastic storytelling and the author's fast-paced, highly engaging writing style.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "mountaineering",
+      "everest",
+      "survival",
+      "disaster"
+    ],
+    "categories": [
+      "AI & Machine Learning",
+      "History"
+    ],
+    "score": 8,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL1168007W",
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "first_publish_year": 1945,
+    "cover_id": 11261770,
+    "summary": "Animal Farm is a classic allegorical novella by George Orwell that depicts farm animals overthrowing their human farmer, only to watch their revolutionary society succumb to totalitarian corruption and tyranny. Through its sharp satire of Soviet history, the book illustrates how utopian ideals and great movements can be hijacked by new ruling classes.",
+    "why_hn": "Hacker News readers strongly recommend it alongside 1984 as essential reading that is revisited over time to reinforce foundational mental models about power and governance.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "totalitarianism",
+      "politics",
+      "satire"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 8,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL19742015W",
+    "title": "Who we are and how we got here",
+    "author": "David Reich",
+    "first_publish_year": 2018,
+    "cover_id": 8800150,
+    "summary": "David Reich's book explores human migrations and history through the revolutionary lens of ancient DNA and paleogenomics. It provides deep scientific context to archaeological discoveries and tackles complex topics surrounding race and identity.",
+    "why_hn": "HN readers recommend it because it offers fascinating, cutting-edge context on human migrations and archaeological discoveries, with particular praise for its nuanced treatment of genomics and identity.",
+    "level": "intermediate",
+    "kind": "science",
+    "topics": [
+      "ancient DNA",
+      "human migration",
+      "paleogenomics",
+      "archaeology",
+      "race and identity"
+    ],
+    "categories": [
+      "Science"
+    ],
+    "score": 8,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL14871946W",
+    "title": "Book of the New Sun",
+    "author": "Gene Wolfe",
+    "first_publish_year": 1983,
+    "cover_id": 11305529,
+    "summary": "Set in a distant, dying future Earth, Gene Wolfe's masterpiece follows Severian, a disgraced torturer exiled from his guild. His journey across a bizarre and decaying landscape ultimately leads him toward a profound destiny.",
+    "why_hn": "Hacker News readers passionately recommend it as a towering work of speculative fiction comparable to Tolkien and Dune, praised for its incredible depth despite one user jokingly calling it an \"easy read\" for teenagers.",
+    "level": "advanced",
+    "kind": "fiction",
+    "topics": [
+      "science fiction",
+      "fantasy",
+      "literary fiction"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 8,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL18233878W",
+    "title": "Superforecasting",
+    "author": "Philip E. Tetlock",
+    "first_publish_year": 2015,
+    "cover_id": 9142114,
+    "summary": "Superforecasting by Philip E. Tetlock explores the characteristics and habits of individuals who possess real, demonstrable foresight in predicting future events. It examines why traditional experts frequently struggle with macro-level developments and offers strategies to improve prediction accuracy.",
+    "why_hn": "HN readers recommend it as an insightful guide for understanding prediction research and overcoming the forecasting pitfalls that often plague experts.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "forecasting",
+      "prediction",
+      "decision making",
+      "cognitive bias"
+    ],
+    "categories": [
+      "Science"
+    ],
+    "score": 8,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL16726829W",
+    "title": "Antifragile",
+    "author": "Nassim Nicholas Taleb",
+    "first_publish_year": 2012,
+    "cover_id": 9180157,
+    "summary": "Nassim Nicholas Taleb explores how certain systems, things, and people actually benefit from chaos, disorder, and uncertainty rather than merely resisting it. The book introduces the concept of 'antifragility' as a property that goes beyond resilience and robustness by thriving under stress.",
+    "why_hn": "Hacker News readers strongly recommend it because it offers a compelling framework for understanding how to benefit from volatility and uncertainty in systems and life.",
+    "level": "intermediate",
+    "kind": "philosophy",
+    "topics": [
+      "antifragility",
+      "uncertainty",
+      "chaos theory",
+      "risk management"
+    ],
+    "categories": [
+      "AI & Machine Learning",
+      "Philosophy",
+      "Business"
+    ],
+    "score": 8,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL21893953W",
+    "title": "Liftoff",
+    "author": "Eric Berger",
+    "first_publish_year": 2021,
+    "cover_id": 11033056,
+    "summary": "\"Liftoff\" by Eric Berger documents the desperate early days of SpaceX through the journeys and efforts of its employees to launch cost-effective rockets. It offers a fascinating history of the technical and political turns in commercial spaceflight that explain why the company ultimately works.",
+    "why_hn": "HN readers recommend it as a compelling history of SpaceX's management and early struggles that provides fascinating insight into Musk and commercial spaceflight.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "SpaceX",
+      "Elon Musk",
+      "commercial spaceflight",
+      "aerospace engineering",
+      "startup history"
+    ],
+    "categories": [
+      "History",
+      "Business"
+    ],
+    "score": 8,
+    "recommender_count": 6,
+    "mention_count": 6,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL38674782W",
+    "title": "Hypermedia Systems",
+    "author": "Carson Gross",
+    "first_publish_year": 2024,
+    "cover_id": null,
+    "summary": "Hypermedia Systems provides a comprehensive guide to building modern web applications using hypermedia and HTMX. It offers practical explanations and serves as an accessible gateway to understanding hypermedia concepts.",
+    "why_hn": "HN readers recommend it because it is available for free, offers a pragmatic approach to web development, and is especially valuable for beginners learning HTMX.",
+    "level": "intro",
+    "kind": "technical",
+    "topics": [
+      "htmx",
+      "hypermedia",
+      "web development"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 8,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL731644W",
+    "title": "Atlas Shrugged (Centennial Ed. HC)",
+    "author": "Ayn Rand",
+    "first_publish_year": 1936,
+    "cover_id": 362277,
+    "summary": "Set in a dystopian United States where society collapses under increasing government regulations, the novel follows railroad executive Dagny Taggart as key innovators mysteriously vanish. It presents author Ayn Rand's philosophical system of Objectivism, emphasizing rational self-interest, laissez-faire capitalism, and individual achievement.",
+    "why_hn": "Hacker News readers recommend it as a life-changing, well-written novel that offers provocative insights into societal mechanics and government control, often serving as light reading to reflect on current events.",
+    "level": "intro",
+    "kind": "philosophy",
+    "topics": [
+      "Objectivism",
+      "capitalism",
+      "individualism",
+      "dystopia",
+      "ethics"
+    ],
+    "categories": [
+      "Philosophy"
+    ],
+    "score": 8,
+    "recommender_count": 6,
+    "mention_count": 6,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL24842672W",
+    "title": "The Glass Bead Game (Penguin Modern Classics)",
+    "author": "Hermann Hesse",
+    "first_publish_year": 1972,
+    "cover_id": null,
+    "summary": "Set in a future province dedicated to intellectual pursuits, the novel follows master game player Joseph Knecht as he navigates the tension between abstract knowledge and worldly duty. It explores the lifelong spiritual and intellectual evolution of a man seeking synthesis across all domains of human culture.",
+    "why_hn": "HN readers praise it as a masterpiece of literature and a personal favorite by Hesse, though some advise against starting with it until you are familiar with his other works.",
+    "level": "advanced",
+    "kind": "fiction",
+    "topics": [
+      "literature",
+      "philosophy",
+      "intellectualism",
+      "spirituality"
+    ],
+    "categories": [
+      "Fiction",
+      "Philosophy"
+    ],
+    "score": 8,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL8396575W",
+    "title": "Digital Apollo",
+    "author": "David A. Mindell",
+    "first_publish_year": 2008,
+    "cover_id": 2341892,
+    "summary": "\"Digital Apollo\" by David A. Mindell explores the history and development of the Apollo flight computer and its critical role in spaceflight. The book examines the delicate balance and interaction between automated systems and human pilots during the Apollo missions.",
+    "why_hn": "HN readers strongly recommend it for its fascinating insights into human-computer interaction (HCI), systems engineering, and the historical design of automated spaceflight systems.",
+    "level": "intermediate",
+    "kind": "history",
+    "topics": [
+      "Apollo computer",
+      "human-computer interaction",
+      "systems engineering",
+      "automated systems",
+      "spaceflight history"
+    ],
+    "categories": [
+      "History",
+      "Computer Science"
+    ],
+    "score": 8,
+    "recommender_count": 4,
+    "mention_count": 5,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL42453624W",
+    "title": "Empire of AI",
+    "author": "Karen Hao",
+    "first_publish_year": 2025,
+    "cover_id": 15092439,
+    "summary": "Empire of AI by Karen Hao explores the inner workings of modern artificial intelligence companies and their scale-focused motives. It offers a critical look at figures like Sam Altman and the broader industry driving the AI boom.",
+    "why_hn": "HN readers recommend it because it fundamentally changes people's perspectives on AI companies and provides a deeper understanding of the tech motives driving them.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "artificial intelligence",
+      "tech industry",
+      "Sam Altman",
+      "scaling"
+    ],
+    "categories": [
+      "AI & Machine Learning",
+      "Business"
+    ],
+    "score": 8,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL24455076W",
+    "title": "Flying Blind",
+    "author": "Peter Robison",
+    "first_publish_year": 2021,
+    "cover_id": 11055288,
+    "summary": "Flying Blind by Peter Robison details the corporate transformation of Boeing and the cultural shifts that contributed to the 737 MAX crashes. It offers a comprehensive historical look at the company's engineering decline and the regulatory failures surrounding the aviation disasters.",
+    "why_hn": "HN readers strongly recommend the book for its meticulous research, excellent details on the subject, and thorough historical context into Boeing's engineering downfall.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "aviation history",
+      "corporate culture",
+      "Boeing 737 MAX",
+      "engineering ethics"
+    ],
+    "categories": [
+      "Business",
+      "History",
+      "Philosophy"
+    ],
+    "score": 7,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL38494W",
+    "title": "Cryptonomicon",
+    "author": "Neal Stephenson",
+    "first_publish_year": 1999,
+    "cover_id": 6424001,
+    "summary": "Neal Stephenson's novel weaves together historical cryptography during WWII and a modern-day dot-com venture to unearth buried gold and build a data haven. It offers a sprawling, intricate narrative that connects historical codebreaking with contemporary computing.",
+    "why_hn": "HN readers recommend it for its memorable scenes, staying power, and rewarding yet slow-paced exploration of treasure hunting and cryptography.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "cryptography",
+      "treasure hunting",
+      "computer science",
+      "history"
+    ],
+    "categories": [
+      "Fiction",
+      "History",
+      "Computer Science"
+    ],
+    "score": 7,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL19754784W",
+    "title": "The Fifth Risk",
+    "author": "Michael Lewis",
+    "first_publish_year": 2018,
+    "cover_id": 10285490,
+    "summary": "Michael Lewis's 'The Fifth Risk' examines the critical, often overlooked functions of various U.S. government departments during the presidential transition. It highlights the complex interactions between public agencies and private entities, particularly focusing on organizations like the Department of Energy and NOAA.",
+    "why_hn": "HN readers recommend it for its eye-opening look into the inner workings of government departments and the vital roles they play in areas like weather data management.",
+    "level": "intro",
+    "kind": "other",
+    "topics": [
+      "government",
+      "public policy",
+      "bureaucracy"
+    ],
+    "categories": [
+      "Other"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL19932156W",
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "first_publish_year": 2015,
+    "cover_id": 8743408,
+    "summary": "Fluent Python by Luciano Ramalho is a comprehensive guide designed to help developers master the Python programming language by leveraging its most effective and idiomatic features. It serves as a powerful accelerator for learning advanced concepts through clear explanations and valuable suggested readings.",
+    "why_hn": "Hacker News readers strongly recommend it as a premier accelerator for learning advanced Python and unlocking the language's full potential.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "Python",
+      "programming",
+      "software development"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL40873W",
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "first_publish_year": 2006,
+    "cover_id": 198120,
+    "summary": "Set in a bleak, ash-covered post-apocalyptic wasteland, a father and his young son walk a desolate road toward the coast. Along the way, they struggle to survive against starvation, marauding gangs of cannibals, and the crushing weight of despair while holding onto their dwindling humanity.",
+    "why_hn": "HN readers strongly recommend it as one of the greatest books ever written, noting that despite its intense nihilism and difficult themes, the harrowing journey is ultimately well worth reading.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "post-apocalyptic",
+      "survival",
+      "nihilism",
+      "father-son relationship"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL24697326W",
+    "title": "Termination Shock",
+    "author": "Neal Stephenson",
+    "first_publish_year": 2021,
+    "cover_id": 11412286,
+    "summary": "Termination Shock by Neal Stephenson is a climate fiction novel exploring the extreme consequences of global warming, including rising sea levels and intense heatwaves. The narrative centers on the controversial deployment of stratospheric aerosol injection to cool the planet and its geopolitical fallout.",
+    "why_hn": "HN readers strongly recommend the book for its engaging exploration of climate fiction, geoengineering, and the severe risks associated with weather modification technologies like stratospheric aerosol injection.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "climate fiction",
+      "geoengineering",
+      "stratospheric aerosol injection",
+      "extreme weather",
+      "rising sea levels"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 4,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL2163712W",
+    "title": "Last Chance to See",
+    "author": "Douglas Adams",
+    "first_publish_year": 1990,
+    "cover_id": 11471274,
+    "summary": "Douglas Adams chronicles his global journey to track down and document several endangered species on the brink of extinction. Blending characteristic humor with poignant observations, the book provides a unique look at wildlife conservation.",
+    "why_hn": "Hacker News readers enthusiastically recommend it as a hilarious yet hopeful exploration of endangered animals that stands out as the author's finest work.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "conservation",
+      "endangered species",
+      "travel writing",
+      "humor"
+    ],
+    "categories": [
+      "Science"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL6307060W",
+    "title": "The High Cost of Free Parking",
+    "author": "Donald C. Shoup",
+    "first_publish_year": 2005,
+    "cover_id": 931442,
+    "summary": "This book provides an in-depth exploration of how parking policies and car-centric development fundamentally shape daily urban life and economics. It analyzes the hidden economic, social, and environmental consequences associated with providing free parking in cities.",
+    "why_hn": "HN readers recommend it because it offers a wonderful, eye-opening look into urbanism and the impacts of parking minimums on modern city planning.",
+    "level": "intermediate",
+    "kind": "business",
+    "topics": [
+      "urbanism",
+      "parking minimums",
+      "urban economics",
+      "car-centric development"
+    ],
+    "categories": [
+      "Business",
+      "Programming"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL4468929W",
+    "title": "Normal Accidents",
+    "author": "Charles Perrow",
+    "first_publish_year": 1984,
+    "cover_id": 7877483,
+    "summary": "Charles Perrow's influential work examines how complex and tightly coupled systems inherently lead to inevitable failures, known as normal accidents. It illustrates these systemic risks through detailed analyses of high-hazard industries like maritime safety and nuclear power.",
+    "why_hn": "HN readers recommend it for offering a deep, foundational mental model that exposes systemic risks and grifts across complex technological and organizational domains.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "system safety",
+      "risk management",
+      "maritime safety",
+      "cybersecurity",
+      "complex systems"
+    ],
+    "categories": [
+      "Business",
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL27810387W",
+    "title": "When Mckinsey Comes to Town",
+    "author": "Walt Bogdanich",
+    "first_publish_year": 2022,
+    "cover_id": 12975794,
+    "summary": "\"When McKinsey Comes to Town\" by Walt Bogdanich exposes the secretive consulting firm's profound role in corporate malfeasance, highlighting their hypocritical and self-serving culture. The book provides a sobering look at how the firm's practices impact global businesses and institutions.",
+    "why_hn": "HN readers strongly recommend the book for offering an eye-opening, close look at corporate malfeasance and the often self-serving culture of powerful consulting firms.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "management consulting",
+      "corporate malfeasance",
+      "business ethics"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL100779W",
+    "title": "The player of games",
+    "author": "Iain Banks",
+    "first_publish_year": 1988,
+    "cover_id": 44077,
+    "summary": "Set within a vast post-scarcity society known as The Culture, the story follows a master game player who is reluctantly drawn into an alien empire to participate in a complex, civilization-defining game. It explores unique sci-fi concepts surrounding citizenship, societal structures, and political intrigue.",
+    "why_hn": "HN readers strongly recommend it as an ideal entry point to Iain M. Banks' acclaimed series due to its refreshing sci-fi concepts and compelling game-centric plot.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "science fiction",
+      "post-scarcity society",
+      "game theory",
+      "civilization"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL4617640W",
+    "title": "The C Programming Language",
+    "author": "Brian W. Kernighan",
+    "first_publish_year": 1978,
+    "cover_id": 6684943,
+    "summary": "Authored by Brian W. Kernighan and Dennis M. Ritchie, this preeminent text is the definitive guide to the C programming language. First published in 1978, it famously introduced the 'Hello, world!' program and remains widely studied through its classic exercises.",
+    "why_hn": "Hacker News readers strongly recommend it because, despite its age, it is still considered the absolute best book for learning C.",
+    "level": "intro",
+    "kind": "technical",
+    "topics": [
+      "C programming language",
+      "programming fundamentals",
+      "computer science history"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL15683431W",
+    "title": "Moonwalking with Einstein",
+    "author": "Joshua Foer",
+    "first_publish_year": 2000,
+    "cover_id": 14426425,
+    "summary": "Joshua Foer's book explores the fascinating world of memory competitions and human cognitive practices. It dives into effective memorization tricks, the construction of memory palaces, and the science of retaining sequences.",
+    "why_hn": "Hacker News readers recommend it as a great, fascinating read that offers valuable insights into memory, creativity, and practical mnemonic techniques.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "memory",
+      "cognition",
+      "creativity"
+    ],
+    "categories": [
+      "Science"
+    ],
+    "score": 7,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL1168169W",
+    "title": "Homage to Catalonia",
+    "author": "George Orwell",
+    "first_publish_year": 1938,
+    "cover_id": 7282177,
+    "summary": "George Orwell's personal account details his involvement and firsthand experiences fighting in the Spanish Civil War. The book provides a powerful, beautiful, and sobering depiction of the conflict and the political betrayal he witnessed.",
+    "why_hn": "Hacker News readers strongly recommend it because it offers a three-dimensional, moving perspective on anarchism and the realities of the Spanish Civil War.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "Spanish Civil War",
+      "anarchism",
+      "politics",
+      "memoir"
+    ],
+    "categories": [
+      "History"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL2943602W",
+    "title": "Infinite Jest",
+    "author": "David Foster Wallace",
+    "first_publish_year": 1996,
+    "cover_id": 8237639,
+    "summary": "Set in a dystopian near-future, this sprawling epic revolves around a tennis academy, a nearby substance abuse recovery facility, and a lethal entertainment cartridge known as 'The Entertainment.' It explores themes of addiction, entertainment, depression, and modern American culture.",
+    "why_hn": "HN readers strongly recommend the book for its amazing modern depth and suggest tackling it by using Dave Eggers' foreword as a guide after viewing 'This Is Water.'",
+    "level": "advanced",
+    "kind": "fiction",
+    "topics": [
+      "addiction",
+      "modern literature",
+      "entertainment",
+      "tennis",
+      "depression"
+    ],
+    "categories": [
+      "Fiction",
+      "AI & Machine Learning"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL16512736W",
+    "title": "Java Concurrency in Practice",
+    "author": "Brian Goetz",
+    "first_publish_year": 2006,
+    "cover_id": 7069893,
+    "summary": "Java Concurrency in Practice by Brian Goetz is a foundational guide that explores the core concepts of concurrent programming and multithreading in Java. It provides clear explanations, best practices, and patterns for building robust and safe concurrent applications.",
+    "why_hn": "HN readers strongly recommend it as an approachable classic that teaches essential concurrent programming concepts applicable far beyond just the Java language.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "Java",
+      "concurrency",
+      "multithreading"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL2722063W",
+    "title": "Code Complete",
+    "author": "Steve McConnell",
+    "first_publish_year": 1993,
+    "cover_id": 461500,
+    "summary": "Code Complete by Steve McConnell is a classic software development guide originally published in 1993. It distills extensive programming experience to provide practical approaches for structuring code and building software solutions.",
+    "why_hn": "HN readers strongly recommend it as an absolute favorite and an essential, hands-on guide that helps structure code and software solutions effectively.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "Software Engineering",
+      "Coding Best Practices",
+      "Software Architecture"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL1999873W",
+    "title": "The Innovator's Dilemma",
+    "author": "Clayton M. Christensen",
+    "first_publish_year": 1997,
+    "cover_id": 9274687,
+    "summary": "Clayton M. Christensen's seminal work explains the decision-making processes that prevent established companies from embracing disruptive innovations. It details why leading businesses often fail when confronted with new technologies that initially serve lower-margin markets.",
+    "why_hn": "HN readers strongly recommend it as a useful business book that sheds light on why disruptive innovations are initially ignored by incumbents.",
+    "level": "intermediate",
+    "kind": "business",
+    "topics": [
+      "disruptive innovation",
+      "business strategy",
+      "decision processes"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL6331362W",
+    "title": "Threaded interpretive languages",
+    "author": "R. G. Loeliger",
+    "first_publish_year": 1981,
+    "cover_id": 4361284,
+    "summary": "This out-of-print classic provides a comprehensive guide to understanding and building threaded interpreters from the ground up. It serves as a foundational resource for learning how to construct operating systems and FORTH-like languages using simple building block words.",
+    "why_hn": "Hacker News readers recommend it as a fascinating, fundamental resource for understanding low-level systems programming and how to build interpreters and operating systems from scratch.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "threaded interpreters",
+      "FORTH",
+      "operating systems",
+      "low-level programming"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 5,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL17923653W",
+    "title": "The Wizard and the Prophet",
+    "author": "Charles C. Mann",
+    "first_publish_year": 2018,
+    "cover_id": 8250114,
+    "summary": "The Wizard and the Prophet by Charles C. Mann explores the contrasting worldviews of scientist William Vogt and agronomist Norman Borlaug regarding resource scarcity and population growth. It examines how technological innovation versus ecological restraint will shape the future of humanity and global survival.",
+    "why_hn": "HN readers recommend it because it offers a compelling, balanced perspective on the ongoing debates surrounding technology, global collapse, population, and resource management.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "population debate",
+      "resource scarcity",
+      "technology",
+      "global collapse",
+      "ecology"
+    ],
+    "categories": [
+      "Science"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL7967812W",
+    "title": "Roadside Picnic",
+    "author": "\u0410\u0440\u043a\u0430\u0434\u0438\u0439 \u0421\u0442\u0440\u0443\u0433\u0430\u0446\u043a\u0438\u0439",
+    "first_publish_year": 1978,
+    "cover_id": 6752719,
+    "summary": "Roadside Picnic is a masterclass in science fiction that explores the enigmatic and dangerous aftermath of an alien visitation on Earth. It follows 'stalkers' who risk their lives venturing into quarantined Zones to retrieve inexplicable alien artifacts.",
+    "why_hn": "HN readers strongly recommend it as a masterpiece of speculative fiction that deserves a faithful adaptation and holds up exceptionally well on rerereads.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "science fiction",
+      "alien visitation",
+      "classic literature"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL3295029W",
+    "title": "Fooled by randomness",
+    "author": "Nassim Nicholas Taleb",
+    "first_publish_year": 2001,
+    "cover_id": 855791,
+    "summary": "Fooled by Randomness explores how luck is often mistaken for skill in finance and daily life, highlighting the pervasive impact of survivorship bias and hidden probabilities. Nassim Nicholas Taleb challenges our understanding of uncertainty and the ways we misinterpret success.",
+    "why_hn": "Hacker News readers strongly recommend it as the definitive guide to avoiding survivorship bias and thinking probabilistically about investing and predictions.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "survivorship bias",
+      "probability",
+      "investing",
+      "randomness"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL16568840W",
+    "title": "The Righteous Mind",
+    "author": "Jonathan Haidt",
+    "first_publish_year": 2012,
+    "cover_id": 7256782,
+    "summary": "Jonathan Haidt explores the origins of human morality and how it shapes our political and social divisions. He argues that moral reasoning largely serves to justify intuitive judgments rather than discover objective truths.",
+    "why_hn": "HN readers strongly recommend the book for its profound impact on how people understand politics, human reasoning, and diverse ethical viewpoints.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "morality",
+      "politics",
+      "human reasoning"
+    ],
+    "categories": [
+      "Science"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL13646905W",
+    "title": "Daemon",
+    "author": "Daniel Suarez",
+    "first_publish_year": 2009,
+    "cover_id": 6404884,
+    "summary": "Following the death of a brilliant game designer, a mysterious computer daemon activates to execute a dark, automated plot that threatens global infrastructure. This gripping techno-thriller explores the terrifying intersection of autonomous software, distributed systems, and networked power.",
+    "why_hn": "Hacker News readers strongly recommend it as a fantastic, highly engaging sci-fi novel that serves as a great fictional portrayal of programming, mysticism, and advanced AI systems.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "artificial intelligence",
+      "programming",
+      "cyberpunk",
+      "distributed systems"
+    ],
+    "categories": [
+      "Fiction",
+      "AI & Machine Learning",
+      "Computer Science"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL28062343W",
+    "title": "Writing a C Compiler",
+    "author": "Nora Sandler",
+    "first_publish_year": 2023,
+    "cover_id": 13834070,
+    "summary": "Writing a C Compiler by Nora Sandler is a super detailed, incremental guide inspired by Ghuloum's classic book. It provides readers with a hands-on approach to building a functional C compiler from scratch.",
+    "why_hn": "HN readers strongly recommend it for its clear, step-by-step methodology that makes the complex process of compiler construction accessible and engaging.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "compilers",
+      "C programming",
+      "software engineering",
+      "programming languages"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL38271105W",
+    "title": "Mastering Emacs",
+    "author": "Mickey Petersen",
+    "first_publish_year": 2015,
+    "cover_id": null,
+    "summary": "Mastering Emacs by Mickey Petersen is an acclaimed guide designed to help users understand and navigate the Emacs text editor. It serves as an essential resource for learning foundational concepts and advanced techniques alike.",
+    "why_hn": "Hacker News readers strongly recommend it as an amazing and excellent starting point to learn how to do things the \"Emacs way.\"",
+    "level": "intro",
+    "kind": "technical",
+    "topics": [
+      "Emacs",
+      "text editors",
+      "productivity",
+      "programming tools"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL24726867W",
+    "title": "There Is No Antimemetics Division",
+    "author": "qntm",
+    "first_publish_year": 2008,
+    "cover_id": 11457905,
+    "summary": "There Is No Antimemetics Division is a sci-fi novel exploring unique, mind-bending scenarios centered around concepts that actively erase themselves from memory. It follows characters trying to fight threats they cannot remember, creating a tense psychological and existential thriller.",
+    "why_hn": "Hacker News readers strongly recommend it as one of the most interesting and favorite sci-fi books of the last decade, praising its creative premise and rave community reception.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "science fiction",
+      "memetics",
+      "psychological thriller"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 7,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL4981641W",
+    "title": "The society of mind",
+    "author": "Marvin Minsky",
+    "first_publish_year": 1986,
+    "cover_id": 4170566,
+    "summary": "Written by AI founding father Marvin Minsky, this foundational text explores the complex architecture of the human mind and cognitive processes. It presents a theoretical framework where intelligence emerges from the interactions of non-intelligent, simple agents.",
+    "why_hn": "Hacker News readers recommend it as the ultimate \"hacker-style\" book on theoretical AI that brilliantly tackles brain complexity and consciousness.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "artificial intelligence",
+      "cognitive science",
+      "consciousness",
+      "brain complexity"
+    ],
+    "categories": [
+      "AI & Machine Learning",
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 6,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL28148070W",
+    "title": "Outlive",
+    "author": "Peter Attia",
+    "first_publish_year": 2023,
+    "cover_id": 13191259,
+    "summary": "Peter Attia's book explores the limitations of modern medicine in treating chronic diseases too late and offers a framework for extending healthspan. It provides actionable advice on nutrition, exercise, and emotional well-being to help readers optimize their long-term physical health.",
+    "why_hn": "HN readers recommend it for its focus on healthspan and prioritizing what is truly important in fitness, despite some noting that its exercise and lifestyle protocols can be time-consuming to fully implement.",
+    "level": "intermediate",
+    "kind": "science",
+    "topics": [
+      "healthspan",
+      "longevity",
+      "preventative medicine",
+      "exercise",
+      "fitness"
+    ],
+    "categories": [
+      "Science"
+    ],
+    "score": 6,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL2465670W",
+    "title": "Accelerando",
+    "author": "Charles Stross",
+    "first_publish_year": 1900,
+    "cover_id": 284259,
+    "summary": "Accelerando by Charles Stross follows three generations of a family navigating a rapidly changing, technologically advanced universe leading up to a technological singularity. The narrative dives deep into posthuman concepts, uploading consciousness, and complex futuristic economics.",
+    "why_hn": "HN readers enthusiastically recommend it as a fantastic, extremely fun, and thought-provoking sci-fi exploration of a potential posthuman technologically advanced future.",
+    "level": "intermediate",
+    "kind": "fiction",
+    "topics": [
+      "posthumanism",
+      "technological singularity",
+      "science fiction"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 6,
+    "recommender_count": 6,
+    "mention_count": 6,
+    "strong_rec_count": 0
+  },
+  {
+    "work_key": "OL20149336W",
+    "title": "Exhalation",
+    "author": "Ted Chiang",
+    "first_publish_year": 2014,
+    "cover_id": 8793546,
+    "summary": "Exhalation is a collection of thought-provoking short stories by Ted Chiang that explore complex philosophical and scientific themes. The narrative journeys through alternate realities, futuristic technologies, and profound human dilemmas.",
+    "why_hn": "HN readers recommend it because its accessible yet deeply intellectual short stories serve as an easy entry point into speculative fiction.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "short stories",
+      "science fiction",
+      "philosophy"
+    ],
+    "categories": [
+      "Fiction",
+      "Philosophy"
+    ],
+    "score": 6,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL20168133W",
+    "title": "Why We Sleep",
+    "author": "Matthew P. Walker",
+    "first_publish_year": 2017,
+    "cover_id": 8814155,
+    "summary": "\"Why We Sleep\" by Matthew P. Walker explores the biological fundamentals of sleep and the critical consequences of sleep deprivation on human health. Written by a renowned sleep scientist, it provides a comprehensive look into why sleep matters and how it impacts our daily lives.",
+    "why_hn": "HN readers recommend it because it is a great, accessible general book that effectively explains the science of sleep and the severe effects of sleep deprivation.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "sleep",
+      "sleep deprivation",
+      "health",
+      "neuroscience"
+    ],
+    "categories": [
+      "Science"
+    ],
+    "score": 6,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL2626638W",
+    "title": "A Canticle for Leibowitz",
+    "author": "Walter M. Miller Jr.",
+    "first_publish_year": 1959,
+    "cover_id": 10221348,
+    "summary": "This post-apocalyptic classic spans thousands of years as a monastic order of monks works to preserve humanity's surviving remnants of scientific knowledge after a nuclear devastation. Originally reworked from pulp short stories, it explores cycles of history, the tension between faith and reason, and the inevitability of human folly.",
+    "why_hn": "HN readers frequently recommend it as a personal favorite and a stellar example of speculative fiction that thoughtfully explores the fragile preservation of knowledge and technology.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "post-apocalyptic",
+      "science fiction",
+      "history",
+      "religion",
+      "technology"
+    ],
+    "categories": [
+      "Fiction",
+      "History"
+    ],
+    "score": 6,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL31157W",
+    "title": "The Code Book",
+    "author": "Simon Singh",
+    "first_publish_year": 1999,
+    "cover_id": 8231826,
+    "summary": "\"The Code Book\" by Simon Singh explores the fascinating history of encryption and cryptography from ancient times to modern digital security. It weaves together historical narratives of secret codes, ciphers, and the brilliant minds who created and broke them.",
+    "why_hn": "HN readers recommend it because it is an entertaining, highly accessible read that serves as a foundational spark for lifelong interest in cryptography.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "cryptography",
+      "history of encryption",
+      "ciphers",
+      "codebreaking"
+    ],
+    "categories": [
+      "History",
+      "Programming"
+    ],
+    "score": 6,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL3368926W",
+    "title": "Mindstorms",
+    "author": "Seymour Papert",
+    "first_publish_year": 1980,
+    "cover_id": 298881,
+    "summary": "Mindstorms by Seymour Papert is a groundbreaking work exploring how computers can be used to transform education and foster human intuition. It introduces the concept of interfaces as pedagogy, detailing how children can learn through programming.",
+    "why_hn": "Hacker News readers strongly recommend it for its detailed and groundbreaking insights into education, computing, and interface design.",
+    "level": "intro",
+    "kind": "technical",
+    "topics": [
+      "education",
+      "computers",
+      "interfaces as pedagogy",
+      "human intuition",
+      "programming"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 6,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL20958421W",
+    "title": "Special ministries, Vietnam generation, a model for ministries of the future",
+    "author": "Glenn Hosman",
+    "first_publish_year": 1976,
+    "cover_id": null,
+    "summary": "This speculative novel explores future climate crises and global policy, opening with a harrowing depiction of a deadly wet-bulb heatwave. It provides high-stakes context for readers grappling with the realities of modern climate change and environmental futures.",
+    "why_hn": "HN readers recommend it for its visceral and perspective-shifting first chapter that vividly illustrates the terrifying realities of extreme climate events.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "climate change",
+      "speculative fiction",
+      "wet-bulb events",
+      "environmental policy",
+      "future studies"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL4688489W",
+    "title": "Starting FORTH",
+    "author": "Leo Brodie",
+    "first_publish_year": 1981,
+    "cover_id": 4961399,
+    "summary": "\"Starting FORTH\" by Leo Brodie is a classic instructional book designed to teach readers how the FORTH programming language works. It features charming illustrations that make the learning process engaging and accessible.",
+    "why_hn": "HN readers enthusiastically recommend it as the definitive, timeless starting resource for understanding and learning FORTH.",
+    "level": "intro",
+    "kind": "technical",
+    "topics": [
+      "FORTH",
+      "programming languages",
+      "retro computing"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 4,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL13771949W",
+    "title": "Game engine architecture",
+    "author": "Jason Gregory",
+    "first_publish_year": 2009,
+    "cover_id": 6764258,
+    "summary": "Game Engine Architecture by Jason Gregory provides a comprehensive and thorough guide to designing and building modern video game engines. It distills real-world engineering experience into practical architectural patterns for structuring complex software systems.",
+    "why_hn": "HN readers recommend it as an amazing and thorough resource for learning how to properly architect and structure game engine code and software solutions.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "game engine architecture",
+      "software design",
+      "software solutions"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL8578577W",
+    "title": "Don't Make Me Think",
+    "author": "Steve Krug",
+    "first_publish_year": 2000,
+    "cover_id": 554640,
+    "summary": "\"Don't Make Me Think\" by Steve Krug is a classic guide on web usability and UI/UX design. It introduces common-sense principles, comparing effective website design to easily digestible roadside billboards.",
+    "why_hn": "HN readers recommend it because it is an excellent foundational resource on UX whose core usability advice remains remarkably applicable today.",
+    "level": "intro",
+    "kind": "technical",
+    "topics": [
+      "ux",
+      "ui",
+      "web usability"
+    ],
+    "categories": [
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL17078706W",
+    "title": "Zero to One",
+    "author": "Peter A. Thiel",
+    "first_publish_year": 2001,
+    "cover_id": 9002334,
+    "summary": "Zero to One by Peter Thiel explores how startups can create breakthrough technologies by building true monopolies instead of competing in crowded markets. The book outlines core business philosophies for turning visionary ideas into innovative companies that drive technological progress.",
+    "why_hn": "Hacker News readers strongly recommend it for its contrarian insights on startups, market competition, and the strategic importance of building monopolies.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "startups",
+      "monopolies",
+      "entrepreneurship"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL20845044W",
+    "title": "Delta-V",
+    "author": "Daniel Suarez",
+    "first_publish_year": 2019,
+    "cover_id": 10154804,
+    "summary": "Daniel Suarez's 'Delta-V' follows a crew of astronauts recruited for a high-risk, private-enterprise mission to mine a near-Earth asteroid. The novel explores the near-future commercialization of space and the complex engineering challenges of deep-space exploration.",
+    "why_hn": "HN readers recommend it because of its super realistic portrayal of spaceflight and the compelling science underpinning its arguments for asteroid mining.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "asteroid mining",
+      "space exploration",
+      "hard science fiction"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL38240W",
+    "title": "Peopleware",
+    "author": "Tom DeMarco",
+    "first_publish_year": 1987,
+    "cover_id": 711859,
+    "summary": "Peopleware by Tom DeMarco and Tim Lister is a foundational text focusing on the human elements of software engineering and project management. It examines how workplace environment, team dynamics, and management philosophy drive productivity far more than strict process adherence.",
+    "why_hn": "Hacker News readers heavily recommend it as a go-to philosophy and management guide for treating software engineers as people rather than cogs in a machine.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "people management",
+      "project management",
+      "software engineering",
+      "team dynamics"
+    ],
+    "categories": [
+      "Business",
+      "Programming"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL271504W",
+    "title": "Getting Things Done",
+    "author": "David Allen",
+    "first_publish_year": 2001,
+    "cover_id": 109288,
+    "summary": "Getting Things Done by David Allen is a personal organization and productivity guide. It teaches readers how to offload tasks from their minds to external systems to reduce stress and improve efficiency.",
+    "why_hn": "HN readers recommend it because it offers practical strategies to avoid mental overload and manage personal organization effectively.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "productivity",
+      "personal organization",
+      "stress management"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL16809886W",
+    "title": "Command and Control",
+    "author": "Eric Schlosser",
+    "first_publish_year": 1848,
+    "cover_id": 7267261,
+    "summary": "Eric Schlosser's book explores the history of U.S. nuclear weapons strategy, policy, and strike authority during the Cold War. It details the complex systems designed to prevent accidental detonations and the terrifying close calls that nearly resulted in catastrophe.",
+    "why_hn": "HN readers recommend it as a fascinating, essential read for understanding the historical realities of nuclear weapons safety, close calls, and command structures.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "nuclear weapons",
+      "Cold War",
+      "military history",
+      "safety systems"
+    ],
+    "categories": [
+      "History",
+      "Computer Science"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL9216355W",
+    "title": "Four Steps to the Epiphany",
+    "author": "Steve Blank",
+    "first_publish_year": 2006,
+    "cover_id": 4985314,
+    "summary": "The Four Steps to the Epiphany by Steve Blank outlines the Customer Development methodology, shifting the focus of early-stage startups from rigid execution to continuous customer discovery and validation. It serves as a foundational guide for entrepreneurs to test hypotheses, refine market strategy, and avoid building products nobody wants.",
+    "why_hn": "HN readers recommend it as an essential, practical playbook for early-stage startup founders to validate their market strategy before quitting their jobs or committing capital.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "startups",
+      "customer development",
+      "entrepreneurship",
+      "market strategy",
+      "product validation"
+    ],
+    "categories": [
+      "Business",
+      "Programming"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL5827943W",
+    "title": "Three felonies a day",
+    "author": "Harvey A. Silverglate",
+    "first_publish_year": 2009,
+    "cover_id": 6391129,
+    "summary": "This book explores the alarming extent of overcriminalization in the United States legal system. It demonstrates how vague and arcane federal laws make it possible for average, well-meaning citizens to unknowingly commit multiple felonies on a daily basis.",
+    "why_hn": "HN readers recommend it because it serves as a striking cautionary example of how easily the federal government can target and prosecute the innocent due to overly broad laws.",
+    "level": "intro",
+    "kind": "other",
+    "topics": [
+      "overcriminalization",
+      "law",
+      "government"
+    ],
+    "categories": [
+      "Other"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL3295030W",
+    "title": "The Black Swan",
+    "author": "Nassim Nicholas Taleb",
+    "first_publish_year": 2005,
+    "cover_id": 5721840,
+    "summary": "The Black Swan by Nassim Nicholas Taleb explores the profound impact of highly improbable, unpredictable events and our tendency to find simplistic explanations for them after the fact. It introduces the concepts of Mediocristan and Extremistan to explain how scaling, automation, and globalization fundamentally alter risk and reward in modern systems.",
+    "why_hn": "Hacker News readers recommend it to help understand unpredictability, scaling dynamics in automated fields, and why complex systems like AI are inherently vulnerable to extreme blow-ups.",
+    "level": "intro",
+    "kind": "philosophy",
+    "topics": [
+      "Extremistan and Mediocristan",
+      "risk management",
+      "scaling and automation",
+      "unpredictable events",
+      "systems fragility"
+    ],
+    "categories": [
+      "Computer Science",
+      "Philosophy",
+      "Business"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 4,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL20389247W",
+    "title": "The Nature of Code",
+    "author": "Daniel Shiffman",
+    "first_publish_year": 2012,
+    "cover_id": 9055888,
+    "summary": "The Nature of Code by Daniel Shiffman is a practical guide to simulating natural phenomena and complex systems in code. It serves as an accessible starting point for exploring algorithmic art, physics simulations, and generative design.",
+    "why_hn": "HN readers extremely highly recommend it as a practical, deep-dive starting point for gaining a technical understanding of computing and algorithmic art.",
+    "level": "intro",
+    "kind": "technical",
+    "topics": [
+      "algorithmic art",
+      "physics simulation",
+      "generative design",
+      "complex systems"
+    ],
+    "categories": [
+      "Science",
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL3333160W",
+    "title": "What color is your parachute?",
+    "author": "Richard Nelson Bolles",
+    "first_publish_year": 1979,
+    "cover_id": 4771065,
+    "summary": "\"What Color Is Your Parachute?\" by Richard Nelson Bolles is a classic guide designed to help individuals navigate career transitions and make informed professional decisions. It offers practical frameworks and psychological insights to assist readers in finding happiness and fulfillment in their work.",
+    "why_hn": "HN readers recommend it because it provides actionable strategies for planning career changes, setting intermediate goals, and finding true satisfaction in one's profession.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "career planning",
+      "job search",
+      "professional development"
+    ],
+    "categories": [
+      "Business",
+      "Programming"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL114967W",
+    "title": "The Jungle",
+    "author": "Upton Sinclair",
+    "first_publish_year": 1791,
+    "cover_id": 8231790,
+    "summary": "Set in the early 20th century, Upton Sinclair's novel depicts the harsh conditions and exploited lives of immigrant workers in the American meatpacking industry. Through a visceral narrative, the book exposes severe health violations and labor abuses that ultimately galvanized public outrage and regulatory reform.",
+    "why_hn": "Hacker News readers recommend it for its seismic impact on worldview and its chilling historical look at the food industry, which helps explain the historical necessity and defense of regulatory bodies like the FDA.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "food industry",
+      "FDA",
+      "labor exploitation",
+      "history",
+      "regulation"
+    ],
+    "categories": [
+      "History"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL1966501W",
+    "title": "The Blind Watchmaker",
+    "author": "Richard Dawkins",
+    "first_publish_year": 1986,
+    "cover_id": 95763,
+    "summary": "The Blind Watchmaker by Richard Dawkins presents a comprehensive defense of evolutionary biology and natural selection. It explains how complex living organisms can evolve without the need for a conscious designer.",
+    "why_hn": "HN readers recommend it as an amazing read that directly refutes claims against evolution and serves as an essential guide for anyone wishing to dive deeper into the subject of evolutionary design.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "evolution",
+      "natural selection",
+      "biology",
+      "evolutionary design"
+    ],
+    "categories": [
+      "Science"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL4310025W",
+    "title": "Feeling Good",
+    "author": "David D. Burns",
+    "first_publish_year": 1980,
+    "cover_id": 7273771,
+    "summary": "Feeling Good by David D. Burns is a classic book that serves as a foundational text for the Cognitive Behavioral Therapy (CBT) movement. It helps readers gain a greater understanding of their emotional states and provides practical tools to work through negative thoughts.",
+    "why_hn": "HN readers recommend it as a seminal, amazing guide to CBT that kick-started the cognitive therapy movement, even if its case studies feel a bit dated today.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "Cognitive Behavioral Therapy",
+      "Mental Health",
+      "Psychology"
+    ],
+    "categories": [
+      "Science"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL84296W",
+    "title": "Dragon's egg",
+    "author": "Robert L. Forward",
+    "first_publish_year": 1980,
+    "cover_id": 209771,
+    "summary": "Robert L. Forward's novel explores a fascinating thought experiment about life originating and evolving rapidly on the surface of a neutron star, specifically a white dwarf. It delves into the unique physics and nuclear reactions that govern this extreme environment and the beings who live there.",
+    "why_hn": "HN readers strongly recommend it as one of the best hard science fiction books ever written, praising its creative and unique premise despite minor writing flaws.",
+    "level": "intermediate",
+    "kind": "science",
+    "topics": [
+      "hard science fiction",
+      "neutron stars",
+      "astrophysics",
+      "alien evolution",
+      "thought experiment"
+    ],
+    "categories": [
+      "Science",
+      "Fiction"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL98484W",
+    "title": "Player Piano",
+    "author": "Kurt Vonnegut",
+    "first_publish_year": 1952,
+    "cover_id": 280246,
+    "summary": "Kurt Vonnegut's 1950s novel imagines a dystopian future where automation has replaced human labor, leaving people without traditional economic roles or meaningful work. It explores the psychological and societal consequences of a world entirely driven by machines and efficiency.",
+    "why_hn": "Hacker News readers strongly recommend it because its themes about widespread automation taking away jobs and leaving humans without an economic role have become remarkably relevant today.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "automation",
+      "future of work",
+      "economic roles",
+      "dystopian society"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL37626731W",
+    "title": "Means of Control",
+    "author": "Byron Tau",
+    "first_publish_year": 2024,
+    "cover_id": 15234212,
+    "summary": "\"Means of Control\" by Byron Tau examines the intersection of ad tech companies, data brokers, and government contractors with intelligence agencies. It provides a deep dive into the modern landscape of digital surveillance and state control.",
+    "why_hn": "Hacker News readers recommend it as an essential read for skeptics wanting to understand the hidden mechanisms of data brokers and government surveillance, frequently pairing it with \"Surveillance Valley.\"",
+    "level": "intermediate",
+    "kind": "history",
+    "topics": [
+      "surveillance",
+      "ad tech",
+      "data brokers",
+      "government contractors",
+      "intelligence agencies"
+    ],
+    "categories": [
+      "History"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 4,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL19671595W",
+    "title": "The Color of Law",
+    "author": "Richard Rothstein",
+    "first_publish_year": 2017,
+    "cover_id": 8816502,
+    "summary": "The Color of Law by Richard Rothstein examines the forgotten history of how federal, state, and local government laws explicitly and systematically segregated American cities. It provides a detailed historical account of urban planning, discriminatory zoning, and policy-driven housing segregation.",
+    "why_hn": "HN readers recommend it for providing essential historical context on government-enforced segregation, urban planning, and car dependency in the United States.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "urban planning",
+      "government segregation",
+      "housing policy",
+      "American history",
+      "car dependency"
+    ],
+    "categories": [
+      "History"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL27448W",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "first_publish_year": 1954,
+    "cover_id": 14625765,
+    "summary": "The Lord of the Rings is an epic high fantasy masterpiece by J.R.R. Tolkien that chronicles the perilous quest to destroy the One Ring and defeat the Dark Lord Sauron. Set in the richly detailed world of Middle-earth, it follows a diverse fellowship of heroes facing immense odds and internal corruption.",
+    "why_hn": "HN readers enthusiastically recommend it as both an all-time personal favorite for countless re-reads and an engaging, accessible classic with deep artistic merit for younger readers.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "fantasy",
+      "epic literature",
+      "classic fiction"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 5,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 1
+  },
+  {
+    "work_key": "OL3902892W",
+    "title": "Influence",
+    "author": "Robert B. Cialdini",
+    "first_publish_year": 1983,
+    "cover_id": 431011,
+    "summary": "Robert Cialdini's 'Influence' explores the fundamental psychological triggers and social influence tactics that compel people to say 'yes.' It breaks down the core principles of persuasion, such as reciprocity, commitment, and social proof, using real-world examples.",
+    "why_hn": "HN readers recommend it as a fantastic guide for understanding human behavior and the mechanisms of psychological manipulation and social influence.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "psychological manipulation",
+      "social influence tactics",
+      "human behavior",
+      "persuasion"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "score": 4,
+    "recommender_count": 4,
+    "mention_count": 4,
+    "strong_rec_count": 0
+  },
+  {
+    "work_key": "OL20726133W",
+    "title": "Humankind",
+    "author": "Rutger Bregman",
+    "first_publish_year": 2019,
+    "cover_id": 9410738,
+    "summary": "Humankind by Rutger Bregman presents a hopeful history of human nature, arguing that humans are fundamentally cooperative and decent. The book challenges prevailing cynical views by well-documenting classic experiments in human behavior and disputing long-held negative notions.",
+    "why_hn": "Hacker News readers recommend it because it effectively disputes cynical assumptions about human nature using well-documented behavioral experiments that can change how one feels about the world.",
+    "level": "intro",
+    "kind": "history",
+    "topics": [
+      "human behavior",
+      "history",
+      "social psychology",
+      "cooperation"
+    ],
+    "categories": [
+      "History"
+    ],
+    "score": 3,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 0
+  },
+  {
+    "work_key": "OL380265W",
+    "title": "The Republic of Plato--Books I.-V.",
+    "author": "\u03a0\u03bb\u03ac\u03c4\u03c9\u03bd",
+    "first_publish_year": 1888,
+    "cover_id": 14377522,
+    "summary": "This foundational work of ancient Greek philosophy presents dialogue-based explorations of justice, the ideal state, and the nature of the soul led by Socrates. It establishes enduring concepts in political theory, ethics, and epistemology that continue to shape Western thought.",
+    "why_hn": "HN readers recommend it as a living historical foundation for reading later philosophy, a source of companionship through the voice of Socrates, and a surprising provider of intuition for abstract technical concepts like passive radar.",
+    "level": "intro",
+    "kind": "philosophy",
+    "topics": [
+      "philosophy",
+      "justice",
+      "political theory"
+    ],
+    "categories": [
+      "Philosophy"
+    ],
+    "score": 3,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 0
+  },
+  {
+    "work_key": "OL19944096W",
+    "title": "Color and light",
+    "author": "James Gurney",
+    "first_publish_year": 2010,
+    "cover_id": 11204675,
+    "summary": "Color and Light: A Guide for the Realist Painter by James Gurney is a comprehensive guide that explores the fundamental principles of illumination and color theory for realist artists. Written by the master of plein air painting, it delves deep into the physics of light on complex forms and the nuances of brush stroke parameters.",
+    "why_hn": "Hacker News readers highly recommend it as the ultimate GOAT resource for understanding how light and color interact in painting.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "plein air painting",
+      "color theory",
+      "light physics",
+      "realist painting",
+      "brush stroke techniques"
+    ],
+    "categories": [
+      "Science",
+      "AI & Machine Learning",
+      "Computer Science"
+    ],
+    "score": 3,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 0
+  },
+  {
+    "work_key": "OL64365W",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "first_publish_year": 1932,
+    "cover_id": 8231823,
+    "summary": "Aldous Huxley's classic novel portrays a futuristic society where citizens are genetically engineered, conditioned from birth, and kept constantly pacified by the drug soma and endless consumerism. It explores the dark side of a seemingly utopian world built on stability and the elimination of suffering at the cost of individual freedom and human emotion.",
+    "why_hn": "HN readers recommend it as essential dystopian fiction that parallels current events and highlights how physical comfort and pampering can still mask a profound lack of freedom.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "dystopia",
+      "totalitarianism",
+      "technology and society",
+      "bioethics"
+    ],
+    "categories": [
+      "Fiction",
+      "Philosophy"
+    ],
+    "score": 3,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 0
+  },
+  {
+    "work_key": "OL24034W",
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "first_publish_year": 1880,
+    "cover_id": 13859660,
+    "summary": "Treasure Island by Robert Louis Stevenson is a classic adventure novel following young Jim Hawkins as he embarks on a perilous quest to find buried pirate treasure. Along the way, he must outwit the iconic and morally ambiguous pirate Long John Silver.",
+    "why_hn": "HN readers recommend it as an engaging starting point for building a reading habit, though some users playfully or mistakenly confuse it with books about tax havens or psychedelics.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "adventure",
+      "pirates",
+      "classic literature"
+    ],
+    "categories": [
+      "Fiction"
+    ],
+    "score": 3,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 0
+  },
+  {
+    "work_key": "OL8059441W",
+    "title": "Linear Algebra Done Right",
+    "author": "Sheldon Jay Axler",
+    "first_publish_year": 2004,
+    "cover_id": 246056,
+    "summary": "Sheldon Axler's textbook offers a unique and rigorous approach to linear algebra by fundamentally rethinking the subject to avoid determinants. It is widely recognized as an exceptional math text that emphasizes conceptual understanding over rote computation.",
+    "why_hn": "Hacker News readers recommend it as an excellent, albeit occasionally challenging, resource that provides a unique choice of emphasis for learning linear algebra.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "linear algebra",
+      "mathematics",
+      "determinants",
+      "vector spaces",
+      "linear operators"
+    ],
+    "categories": [
+      "Science",
+      "Computer Science",
+      "Programming"
+    ],
+    "score": 3,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 0
+  },
+  {
+    "work_key": "OL15029001W",
+    "title": "1Q84",
+    "author": "\u6751\u4e0a\u6625\u6a39",
+    "first_publish_year": 2009,
+    "cover_id": 11153243,
+    "summary": "Set in an alternative 1984 Tokyo, this sprawling novel follows a woman assassin and a struggling aspiring novelist whose lives intertwine in a surreal reality. As they navigate mysterious cults and two moons in the sky, the narrative explores deep themes of memory, love, and fate.",
+    "why_hn": "HN readers recommend it as a wild, captivating story that serves as an excellent gateway to exploring the rest of Haruki Murakami's literary works.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "surrealism",
+      "alternative history",
+      "contemporary literature"
+    ],
+    "categories": [
+      "Fiction",
+      "History"
+    ],
+    "score": 3,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 0
+  },
+  {
+    "work_key": "OL36497688W",
+    "title": "Founding Sales",
+    "author": "Pete Kazanjy",
+    "first_publish_year": 2020,
+    "cover_id": null,
+    "summary": "Founding Sales is a practical guide designed to help startup founders and non-sales professionals build and execute early-stage sales processes. It provides actionable strategies specifically tailored for SaaS companies looking to secure their initial customers.",
+    "why_hn": "HN readers recommend it because it is an accessible, highly practical, and freely available resource for founders and technical teams struggling with early sales and marketing.",
+    "level": "intro",
+    "kind": "business",
+    "topics": [
+      "sales",
+      "saas",
+      "startups"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "score": 3,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 0
+  },
+  {
+    "work_key": "OL2668553W",
+    "title": "What's the matter with Kansas?",
+    "author": "Thomas Frank",
+    "first_publish_year": 2004,
+    "cover_id": 581387,
+    "summary": "Thomas Frank's book examines the political mindset of the rural poor, exploring why working-class voters in conservative areas often support policies that seem contrary to their economic interests. Through social and political commentary, it provides an eye-opening look at modern American political polarization.",
+    "why_hn": "HN readers recommend it as an eye-opening resource for understanding how the rural poor feel politically and for gaining insight into contemporary political and social dynamics.",
+    "level": "intro",
+    "kind": "other",
+    "topics": [
+      "politics",
+      "social commentary",
+      "rural poverty",
+      "political polarization"
+    ],
+    "categories": [
+      "Other"
+    ],
+    "score": 3,
+    "recommender_count": 3,
+    "mention_count": 3,
+    "strong_rec_count": 0
   }
 ]

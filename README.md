@@ -4,7 +4,7 @@
 
 **Live Site:** https://ishankdev.github.io/hackershelf/
 
-HackerShelf is a curated collection of books recommended by the Hacker News community, extracted from 2024-2026 HN comments (392k+ candidates scanned). Inspired by Andrej Karpathy's [HackerTube](https://hackertube.org/).
+HackerShelf is a curated collection of books recommended by the Hacker News community, extracted from 2024-2026 HN comments (9.4M comments scanned, 11,519 candidates). Inspired by Andrej Karpathy's [HackerTube](https://hackertube.org/).
 
 ## Features
 
@@ -36,7 +36,9 @@ The pipeline extracts book recommendations from HN comments following the Hacker
 ### Prerequisites
 
 - Python 3.9+
-- Gemini API key (free tier at [aistudio.google.com](https://aistudio.google.com))
+- DuckDB, requests, python-dotenv
+- Gemini API key (get from [aistudio.google.com](https://aistudio.google.com))
+- Raw HN parquet files from [open-index/hacker-news](https://huggingface.co/datasets/open-index/hacker-news)
 
 ### Setup
 
@@ -79,30 +81,31 @@ make site-data    # <1 min, outputs site/data/*.json and .zip
 See [PIPELINE_README.md](./PIPELINE_README.md) for complete documentation.
 
 **Current Status:**
-- ✅ Stage 1 complete: 392,831 candidates extracted (2024-2026)
-- ⏳ Stage 2 pending: LLM extraction (awaiting API key)
-- ✅ Stage 3 complete: 9 books resolved and filtered (sample data)
-- ⏳ Stage 4 pending: Card generation (sample cards used)
-- ✅ Stage 5 complete: Site data prepared
+- ✅ Prefilter complete: 11,519 strong candidates from 9.4M comments (2024-01 to 2026-08)
+- ✅ LLM extraction complete: Gemini 3.5 Flash Lite processed all candidates
+- ✅ Resolve & filter complete: 151 books (≥3 users, ≥3 months)
+- ✅ Card generation complete: Summaries and metadata for all books
+- ✅ Site data prepared: Full dataset deployed
 
-**Sample Data:** The live site uses 9 sample books for demonstration. Run stages 2 and 4 with your Gemini API key to process all 392k candidates.
+**Full Dataset:** The site now contains the complete dataset with 151 books from real LLM extraction.
 
 ## Methodology
 
 Following [HackerTube](https://hackertube.org/)'s approach:
 
-1. **Scan** all HN comments (2024-2026: 392k candidates with book signals)
-2. **Extract** book titles, authors, and stance via LLM (Gemini 2.0 Flash)
-3. **Resolve** books via Open Library API and dedupe by work ID
-4. **Filter** — keep books with ≥3 distinct recommenders in ≥3 months
-5. **Enrich** — generate summaries, categories, topics via LLM
-6. **Score** — `Score = (distinct recommenders) + 2 × (strong recommendations)`
+1. **Prefilter** 9.4M HN comments (2024-01 to 2026-08) for strong book signals
+2. **Extract** 11,519 candidates with book links or strong recommendation phrases
+3. **LLM Extract** book titles, authors, and stance via Gemini 3.5 Flash Lite
+4. **Resolve** books via Open Library API and dedupe by work ID
+5. **Filter** — keep books with ≥3 distinct recommenders in ≥3 months
+6. **Enrich** — generate summaries, categories, topics via LLM
+7. **Score** — `Score = (distinct recommenders) + 2 × (strong recommendations)`
 
 ## Tech Stack
 
 **Pipeline:**
-- Python 3 + DuckDB (data extraction)
-- Gemini 2.0 Flash (LLM extraction/cards)
+- Python 3 + DuckDB (data extraction from 9.4M comments)
+- Gemini 3.5 Flash Lite (LLM extraction/cards)
 - Open Library API (book metadata)
 
 **Site:**
@@ -118,15 +121,13 @@ Following [HackerTube](https://hackertube.org/)'s approach:
 **Inspiration:** [HackerTube](https://hackertube.org/) by Andrej Karpathy  
 **License:** ODC-By 1.0 (HN comments remain work of their authors)
 
-## Statistics (Current Sample)
+## Statistics
 
-- **9** books
-- **47** mentions
-- **43** unique recommenders
-- **2024-2024** time span
-- **12** categories
-
-*Full dataset will include hundreds of books once LLM extraction runs on all 392k candidates.*
+- **151** books
+- **723** mentions
+- **601** unique recommenders
+- **2024-2026** time span (Jan 2024 - Aug 2026)
+- **9** categories
 
 ## Download Data
 

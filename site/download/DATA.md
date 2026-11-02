@@ -5,17 +5,17 @@ Generated: 2026-11-02
 ## Overview
 
 This dataset contains books recommended by the Hacker News community, extracted from 
-2024-2024 of HN comments.
+2024-2026 of HN comments.
 
-- **9** books
-- **47** mentions
-- **43** unique recommenders
+- **151** books
+- **723** mentions
+- **601** unique recommenders
 
 ## Methodology
 
 Following the HackerTube approach by Andrej Karpathy:
 
-1. Scanned all HN comments from 2024-2024 
+1. Scanned all HN comments from 2024-2026 
 2. Extracted candidate comments (≥100 chars) with book links or book-related keywords
 3. Used LLM (Gemini 2.0 Flash) to extract book titles, authors, and stance
 4. Resolved books via Open Library API

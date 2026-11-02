@@ -368,17 +368,17 @@ function renderAbout() {
         <div class="about-content">
             <h1>About HackerShelf</h1>
             
-            <p>HackerShelf is a curated collection of books recommended by the Hacker News community, extracted from ${stats.year_range ? stats.year_range[0] + '-' + stats.year_range[1] : '20 years'} of HN comments.</p>
+            <p>HackerShelf is a curated collection of books recommended by the Hacker News community, extracted from ${stats.year_range ? stats.year_range[0] + '-' + stats.year_range[1] : '2024-2026'} of HN comments.</p>
             
             <h2>Methodology</h2>
             <p>Following the approach pioneered by Andrej Karpathy's <a href="https://hackertube.org" target="_blank">HackerTube</a>, we:</p>
             <ul>
-                <li>Scanned all Hacker News comments from ${stats.year_range?.[0] || 2007} to ${stats.year_range?.[1] || 2026}</li>
-                <li>Extracted candidate comments (≥100 chars) with book links or book-related keywords</li>
-                <li>Used LLM to identify book titles, authors, and recommendation stance</li>
+                <li>Scanned 9.4M Hacker News comments from January 2024 to August 2026</li>
+                <li>Prefiltered to 11,519 strong candidates with book links or recommendation phrases</li>
+                <li>Used Gemini 3.5 Flash Lite to extract book titles, authors, and stance</li>
                 <li>Resolved books via Open Library API</li>
                 <li>Applied filters: kept books with ≥3 recommenders in ≥3 different months</li>
-                <li>Generated summaries and categorization</li>
+                <li>Generated summaries and categorization via LLM</li>
             </ul>
             
             <h2>Scoring</h2>
@@ -402,9 +402,6 @@ function renderAbout() {
                 <li>Time span: <strong>${stats.year_range ? stats.year_range[0] + '-' + stats.year_range[1] : 'N/A'}</strong></li>
             </ul>
             
-            <p style="margin-top: 40px; text-align: center;">
-                <em>Note: This is a sample build with ${stats.book_count || 0} books. The full dataset will include hundreds of books once LLM extraction runs on all ${stats.candidate_count || 392831} candidates.</em>
-            </p>
         </div>
     `;
     
