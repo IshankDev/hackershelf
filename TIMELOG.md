@@ -31,3 +31,15 @@ Starting HackerShelf build. Modified approach: no LLM key available, building pi
 - Sample data: 9 books ready to display
 - Duration: ~3 minutes
 
+## 2026-11-02T15:05:05Z — CHECKPOINT 5: Deployment Ready
+- GitHub Actions workflow created (.github/workflows/deploy.yml)
+- Workflow configured for GitHub Pages deployment
+- README.md with full documentation
+- First deployment attempted (failed - Pages not enabled)
+- **Action required:** Enable GitHub Pages in repo settings
+  - Go to: https://github.com/IshankDev/hackershelf/settings/pages
+  - Source: "GitHub Actions"
+  - Save, then re-run workflow or push a commit
+- Expected URL: https://ishankdev.github.io/hackershelf/
+- Duration: ~2 minutes
+
