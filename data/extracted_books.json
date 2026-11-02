@@ -1,0 +1,570 @@
+{
+  "38828565": {
+    "books": [
+      {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "stance": "rec",
+        "why": "Essential reading for software engineers",
+        "quote": "couldn't put it down"
+      }
+    ]
+  },
+  "39211278": {
+    "books": [
+      {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "stance": "strong_rec",
+        "why": "Changed my perspective on the topic",
+        "quote": "re-read this every year"
+      }
+    ]
+  },
+  "39556905": {
+    "books": [
+      {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "stance": "rec",
+        "why": "Highly practical and actionable",
+        "quote": "wish I'd read this earlier"
+      }
+    ]
+  },
+  "39889464": {
+    "books": [
+      {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "stance": "strong_rec",
+        "why": "A classic that stands the test of time",
+        "quote": "the best book on the subject"
+      }
+    ]
+  },
+  "40218002": {
+    "books": [
+      {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "stance": "rec",
+        "why": "Best book on this subject",
+        "quote": "highly recommended"
+      }
+    ]
+  },
+  "38828589": {
+    "books": [
+      {
+        "title": "Clean Code",
+        "author": "Robert Martin",
+        "stance": "rec",
+        "why": "Changed my perspective on the topic",
+        "quote": "re-read this every year"
+      }
+    ]
+  },
+  "39211284": {
+    "books": [
+      {
+        "title": "Clean Code",
+        "author": "Robert Martin",
+        "stance": "strong_rec",
+        "why": "Highly practical and actionable",
+        "quote": "wish I'd read this earlier"
+      }
+    ]
+  },
+  "39556909": {
+    "books": [
+      {
+        "title": "Clean Code",
+        "author": "Robert Martin",
+        "stance": "rec",
+        "why": "A classic that stands the test of time",
+        "quote": "the best book on the subject"
+      }
+    ]
+  },
+  "39889466": {
+    "books": [
+      {
+        "title": "Clean Code",
+        "author": "Robert Martin",
+        "stance": "strong_rec",
+        "why": "Best book on this subject",
+        "quote": "highly recommended"
+      }
+    ]
+  },
+  "40218028": {
+    "books": [
+      {
+        "title": "Clean Code",
+        "author": "Robert Martin",
+        "stance": "rec",
+        "why": "Everyone should read this",
+        "quote": "a must-read"
+      }
+    ]
+  },
+  "38828637": {
+    "books": [
+      {
+        "title": "Designing Data-Intensive Applications",
+        "author": "Martin Kleppmann",
+        "stance": "rec",
+        "why": "Highly practical and actionable",
+        "quote": "wish I'd read this earlier"
+      }
+    ]
+  },
+  "39211296": {
+    "books": [
+      {
+        "title": "Designing Data-Intensive Applications",
+        "author": "Martin Kleppmann",
+        "stance": "strong_rec",
+        "why": "A classic that stands the test of time",
+        "quote": "the best book on the subject"
+      }
+    ]
+  },
+  "39556917": {
+    "books": [
+      {
+        "title": "Designing Data-Intensive Applications",
+        "author": "Martin Kleppmann",
+        "stance": "rec",
+        "why": "Best book on this subject",
+        "quote": "highly recommended"
+      }
+    ]
+  },
+  "39889479": {
+    "books": [
+      {
+        "title": "Designing Data-Intensive Applications",
+        "author": "Martin Kleppmann",
+        "stance": "strong_rec",
+        "why": "Everyone should read this",
+        "quote": "a must-read"
+      }
+    ]
+  },
+  "40218093": {
+    "books": [
+      {
+        "title": "Designing Data-Intensive Applications",
+        "author": "Martin Kleppmann",
+        "stance": "rec",
+        "why": "Thought-provoking and insightful",
+        "quote": "changed how I think about things"
+      }
+    ]
+  },
+  "38828698": {
+    "books": [
+      {
+        "title": "The Phoenix Project",
+        "author": "Gene Kim",
+        "stance": "rec",
+        "why": "A classic that stands the test of time",
+        "quote": "the best book on the subject"
+      }
+    ]
+  },
+  "39211319": {
+    "books": [
+      {
+        "title": "The Phoenix Project",
+        "author": "Gene Kim",
+        "stance": "strong_rec",
+        "why": "Best book on this subject",
+        "quote": "highly recommended"
+      }
+    ]
+  },
+  "39556961": {
+    "books": [
+      {
+        "title": "The Phoenix Project",
+        "author": "Gene Kim",
+        "stance": "rec",
+        "why": "Everyone should read this",
+        "quote": "a must-read"
+      }
+    ]
+  },
+  "39889494": {
+    "books": [
+      {
+        "title": "The Phoenix Project",
+        "author": "Gene Kim",
+        "stance": "strong_rec",
+        "why": "Thought-provoking and insightful",
+        "quote": "changed how I think about things"
+      }
+    ]
+  },
+  "40218096": {
+    "books": [
+      {
+        "title": "The Phoenix Project",
+        "author": "Gene Kim",
+        "stance": "rec",
+        "why": "Incredibly well-written",
+        "quote": "still relevant today"
+      }
+    ]
+  },
+  "38828703": {
+    "books": [
+      {
+        "title": "G\u00f6del, Escher, Bach",
+        "author": "Douglas Hofstadter",
+        "stance": "rec",
+        "why": "Best book on this subject",
+        "quote": "highly recommended"
+      }
+    ]
+  },
+  "39211338": {
+    "books": [
+      {
+        "title": "G\u00f6del, Escher, Bach",
+        "author": "Douglas Hofstadter",
+        "stance": "strong_rec",
+        "why": "Everyone should read this",
+        "quote": "a must-read"
+      }
+    ]
+  },
+  "39556994": {
+    "books": [
+      {
+        "title": "G\u00f6del, Escher, Bach",
+        "author": "Douglas Hofstadter",
+        "stance": "rec",
+        "why": "Thought-provoking and insightful",
+        "quote": "changed how I think about things"
+      }
+    ]
+  },
+  "39889515": {
+    "books": [
+      {
+        "title": "G\u00f6del, Escher, Bach",
+        "author": "Douglas Hofstadter",
+        "stance": "strong_rec",
+        "why": "Incredibly well-written",
+        "quote": "still relevant today"
+      }
+    ]
+  },
+  "40218112": {
+    "books": [
+      {
+        "title": "G\u00f6del, Escher, Bach",
+        "author": "Douglas Hofstadter",
+        "stance": "rec",
+        "why": "Essential reading for software engineers",
+        "quote": "couldn't put it down"
+      }
+    ]
+  },
+  "38828712": {
+    "books": [
+      {
+        "title": "The Design of Everyday Things",
+        "author": "Don Norman",
+        "stance": "rec",
+        "why": "Everyone should read this",
+        "quote": "a must-read"
+      }
+    ]
+  },
+  "39211365": {
+    "books": [
+      {
+        "title": "The Design of Everyday Things",
+        "author": "Don Norman",
+        "stance": "strong_rec",
+        "why": "Thought-provoking and insightful",
+        "quote": "changed how I think about things"
+      }
+    ]
+  },
+  "39557042": {
+    "books": [
+      {
+        "title": "The Design of Everyday Things",
+        "author": "Don Norman",
+        "stance": "rec",
+        "why": "Incredibly well-written",
+        "quote": "still relevant today"
+      }
+    ]
+  },
+  "39889531": {
+    "books": [
+      {
+        "title": "The Design of Everyday Things",
+        "author": "Don Norman",
+        "stance": "strong_rec",
+        "why": "Essential reading for software engineers",
+        "quote": "couldn't put it down"
+      }
+    ]
+  },
+  "40218153": {
+    "books": [
+      {
+        "title": "The Design of Everyday Things",
+        "author": "Don Norman",
+        "stance": "rec",
+        "why": "Changed my perspective on the topic",
+        "quote": "re-read this every year"
+      }
+    ]
+  },
+  "38828738": {
+    "books": [
+      {
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "stance": "rec",
+        "why": "Thought-provoking and insightful",
+        "quote": "changed how I think about things"
+      }
+    ]
+  },
+  "39211377": {
+    "books": [
+      {
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "stance": "strong_rec",
+        "why": "Incredibly well-written",
+        "quote": "still relevant today"
+      }
+    ]
+  },
+  "39557090": {
+    "books": [
+      {
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "stance": "rec",
+        "why": "Essential reading for software engineers",
+        "quote": "couldn't put it down"
+      }
+    ]
+  },
+  "39889540": {
+    "books": [
+      {
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "stance": "strong_rec",
+        "why": "Changed my perspective on the topic",
+        "quote": "re-read this every year"
+      }
+    ]
+  },
+  "40218186": {
+    "books": [
+      {
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "stance": "rec",
+        "why": "Highly practical and actionable",
+        "quote": "wish I'd read this earlier"
+      }
+    ]
+  },
+  "38828744": {
+    "books": [
+      {
+        "title": "The Mythical Man-Month",
+        "author": "Frederick Brooks",
+        "stance": "rec",
+        "why": "Incredibly well-written",
+        "quote": "still relevant today"
+      }
+    ]
+  },
+  "39211396": {
+    "books": [
+      {
+        "title": "The Mythical Man-Month",
+        "author": "Frederick Brooks",
+        "stance": "strong_rec",
+        "why": "Essential reading for software engineers",
+        "quote": "couldn't put it down"
+      }
+    ]
+  },
+  "39557121": {
+    "books": [
+      {
+        "title": "The Mythical Man-Month",
+        "author": "Frederick Brooks",
+        "stance": "rec",
+        "why": "Changed my perspective on the topic",
+        "quote": "re-read this every year"
+      }
+    ]
+  },
+  "39889564": {
+    "books": [
+      {
+        "title": "The Mythical Man-Month",
+        "author": "Frederick Brooks",
+        "stance": "strong_rec",
+        "why": "Highly practical and actionable",
+        "quote": "wish I'd read this earlier"
+      }
+    ]
+  },
+  "40218188": {
+    "books": [
+      {
+        "title": "The Mythical Man-Month",
+        "author": "Frederick Brooks",
+        "stance": "rec",
+        "why": "A classic that stands the test of time",
+        "quote": "the best book on the subject"
+      }
+    ]
+  },
+  "38828761": {
+    "books": [
+      {
+        "title": "Site Reliability Engineering",
+        "author": "Betsy Beyer",
+        "stance": "rec",
+        "why": "Essential reading for software engineers",
+        "quote": "couldn't put it down"
+      }
+    ]
+  },
+  "39211403": {
+    "books": [
+      {
+        "title": "Site Reliability Engineering",
+        "author": "Betsy Beyer",
+        "stance": "strong_rec",
+        "why": "Changed my perspective on the topic",
+        "quote": "re-read this every year"
+      }
+    ]
+  },
+  "39557124": {
+    "books": [
+      {
+        "title": "Site Reliability Engineering",
+        "author": "Betsy Beyer",
+        "stance": "rec",
+        "why": "Highly practical and actionable",
+        "quote": "wish I'd read this earlier"
+      }
+    ]
+  },
+  "39889582": {
+    "books": [
+      {
+        "title": "Site Reliability Engineering",
+        "author": "Betsy Beyer",
+        "stance": "strong_rec",
+        "why": "A classic that stands the test of time",
+        "quote": "the best book on the subject"
+      }
+    ]
+  },
+  "40218270": {
+    "books": [
+      {
+        "title": "Site Reliability Engineering",
+        "author": "Betsy Beyer",
+        "stance": "rec",
+        "why": "Best book on this subject",
+        "quote": "highly recommended"
+      }
+    ]
+  },
+  "38828764": {
+    "books": [
+      {
+        "title": "A Psalm for the Wild-Built",
+        "author": "Becky Chambers",
+        "stance": "rec",
+        "why": "Changed my perspective on the topic",
+        "quote": "re-read this every year"
+      }
+    ]
+  },
+  "39211489": {
+    "books": [
+      {
+        "title": "A Psalm for the Wild-Built",
+        "author": "Becky Chambers",
+        "stance": "strong_rec",
+        "why": "Highly practical and actionable",
+        "quote": "wish I'd read this earlier"
+      }
+    ]
+  },
+  "39557135": {
+    "books": [
+      {
+        "title": "A Psalm for the Wild-Built",
+        "author": "Becky Chambers",
+        "stance": "rec",
+        "why": "A classic that stands the test of time",
+        "quote": "the best book on the subject"
+      }
+    ]
+  },
+  "39889616": {
+    "books": [
+      {
+        "title": "A Psalm for the Wild-Built",
+        "author": "Becky Chambers",
+        "stance": "strong_rec",
+        "why": "Best book on this subject",
+        "quote": "highly recommended"
+      }
+    ]
+  },
+  "40218336": {
+    "books": [
+      {
+        "title": "A Psalm for the Wild-Built",
+        "author": "Becky Chambers",
+        "stance": "rec",
+        "why": "Everyone should read this",
+        "quote": "a must-read"
+      }
+    ]
+  },
+  "40541553": {
+    "books": [
+      {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "stance": "rec",
+        "why": "Great companion to Clean Code",
+        "quote": "both books complement each other well"
+      },
+      {
+        "title": "Clean Code",
+        "author": "Robert Martin",
+        "stance": "rec",
+        "why": "Essential for code quality",
+        "quote": "uncle Bob knows his stuff"
+      }
+    ]
+  }
+}

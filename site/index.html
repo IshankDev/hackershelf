@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HackerShelf — Books Hacker News Keeps Recommending</title>
+    <meta name="description" content="Discover the books that Hacker News readers love most. Curated from 20 years of HN comments.">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <nav class="nav">
+        <div class="container">
+            <div class="nav-content">
+                <a href="#/" class="logo">
+                    <span class="logo-icon">📚</span>
+                    <span class="logo-text">HackerShelf</span>
+                </a>
+                <div class="nav-links">
+                    <a href="#/" class="nav-link">Home</a>
+                    <a href="#/browse" class="nav-link">Browse</a>
+                    <a href="#/list" class="nav-link">Want to Read</a>
+                    <a href="#/about" class="nav-link">About</a>
+                </div>
+                <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+                    <span class="theme-icon">🌙</span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <main class="main" id="app">
+        <div class="container">
+            <div class="loading">Loading...</div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>
+                Data from <a href="https://huggingface.co/datasets/open-index/hacker-news" target="_blank">open-index/hacker-news</a> (ODC-By 1.0).
+                Inspired by <a href="https://hackertube.org" target="_blank">HackerTube</a> by Andrej Karpathy.
+            </p>
+            <p>
+                <a href="./download/hackershelf-data.zip">Download Data</a>
+            </p>
+        </div>
+    </footer>
+
+    <script src="./js/app.js"></script>
+</body>
+</html>

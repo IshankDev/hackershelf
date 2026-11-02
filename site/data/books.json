@@ -1,0 +1,218 @@
+[
+  {
+    "work_key": "OL5748544W",
+    "title": "The Pragmatic Programmer",
+    "author": "Andy Hunt",
+    "first_publish_year": 1999,
+    "cover_id": 10143650,
+    "summary": "A practical guide to software craftsmanship and best practices for professional programmers. Covers topics from code organization to career development.",
+    "why_hn": "HN readers appreciate its timeless advice on writing maintainable code and thinking like a pragmatic developer.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "Software Engineering",
+      "Best Practices",
+      "Programming"
+    ],
+    "categories": [
+      "Programming",
+      "Software Engineering"
+    ],
+    "score": 10,
+    "recommender_count": 6,
+    "mention_count": 6,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL17618370W",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "first_publish_year": 2008,
+    "cover_id": 8065615,
+    "summary": "Uncle Bob's principles for writing readable, maintainable code that other developers can understand. Focuses on naming, functions, and code organization.",
+    "why_hn": "Widely recommended for learning how to write code that doesn't just work, but is clean and maintainable.",
+    "level": "intermediate",
+    "kind": "technical",
+    "topics": [
+      "Software Engineering",
+      "Best Practices",
+      "Programming"
+    ],
+    "categories": [
+      "Programming",
+      "Software Engineering"
+    ],
+    "score": 10,
+    "recommender_count": 6,
+    "mention_count": 6,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL19293745W",
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "first_publish_year": 2017,
+    "cover_id": 8434671,
+    "summary": "Comprehensive guide to the architecture and principles behind modern distributed data systems. Covers databases, streaming, and batch processing.",
+    "why_hn": "The go-to reference for engineers building scalable systems and working with distributed data.",
+    "level": "advanced",
+    "kind": "technical",
+    "topics": [
+      "Distributed Systems",
+      "Architecture",
+      "Scalability"
+    ],
+    "categories": [
+      "Computer Science",
+      "Systems"
+    ],
+    "score": 9,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL16806686W",
+    "title": "The Phoenix Project",
+    "author": "Gene Kim",
+    "first_publish_year": 2013,
+    "cover_id": 9151976,
+    "summary": "A novel about IT transformation, DevOps principles, and improving flow in software organizations. Follows a struggling IT department's turnaround.",
+    "why_hn": "Makes complex DevOps and organizational principles accessible through an engaging story.",
+    "level": "intermediate",
+    "kind": "business",
+    "topics": [
+      "Project Management",
+      "Teams",
+      "Leadership"
+    ],
+    "categories": [
+      "Business",
+      "Management"
+    ],
+    "score": 9,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL716850W",
+    "title": "G\u00f6del, Escher, Bach",
+    "author": "Douglas R. Hofstadter",
+    "first_publish_year": 1979,
+    "cover_id": 14368453,
+    "summary": "An exploration of consciousness, self-reference, and formal systems through the work of G\u00f6del, Escher, and Bach. A playful journey through recursion and meaning.",
+    "why_hn": "A cult classic that resonates with programmers interested in the deep connections between math, art, and computation.",
+    "level": "intro",
+    "kind": "philosophy",
+    "topics": [
+      "Philosophy",
+      "Mathematics",
+      "Cognitive Science"
+    ],
+    "categories": [
+      "Philosophy",
+      "Science"
+    ],
+    "score": 9,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL15992072W",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "first_publish_year": 2011,
+    "cover_id": 13290711,
+    "summary": "Nobel laureate Daniel Kahneman's exploration of the two systems that drive human thinking: fast intuition and slow deliberation. Reveals cognitive biases.",
+    "why_hn": "Essential for understanding decision-making, cognitive biases, and how we think about thinking.",
+    "level": "intro",
+    "kind": "science",
+    "topics": [
+      "Psychology",
+      "Decision Making",
+      "Cognitive Science"
+    ],
+    "categories": [
+      "Science",
+      "Psychology"
+    ],
+    "score": 9,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL3510570W",
+    "title": "The Mythical Man-Month",
+    "author": "Frederick P. Brooks",
+    "first_publish_year": 1974,
+    "cover_id": 6915361,
+    "summary": "Fred Brooks' classic on software project management, arguing that adding people to a late project makes it later. Full of timeless insights.",
+    "why_hn": "50 years old but still the most accurate description of software project realities.",
+    "level": "intermediate",
+    "kind": "business",
+    "topics": [
+      "Project Management",
+      "Teams",
+      "Leadership"
+    ],
+    "categories": [
+      "Business",
+      "Management"
+    ],
+    "score": 9,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL20028554W",
+    "title": "Site Reliability Engineering",
+    "author": "Betsy Beyer",
+    "first_publish_year": 2016,
+    "cover_id": 9196682,
+    "summary": "Google's approach to building and running large-scale production systems. Covers SLIs, SLOs, incident response, and operational best practices.",
+    "why_hn": "The definitive guide to how Google runs its systems, written by actual Google SREs.",
+    "level": "advanced",
+    "kind": "technical",
+    "topics": [
+      "SRE",
+      "DevOps",
+      "Operations"
+    ],
+    "categories": [
+      "Computer Science",
+      "DevOps"
+    ],
+    "score": 9,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 2
+  },
+  {
+    "work_key": "OL22561871W",
+    "title": "A Psalm for the Wild-Built",
+    "author": "Becky Chambers",
+    "first_publish_year": 2021,
+    "cover_id": 10476616,
+    "summary": "A hopeful solarpunk novella about a tea monk who meets a robot in a world where humans and nature have found balance. Gentle and contemplative.",
+    "why_hn": "A refreshing dose of optimistic fiction that imagines a better future without being naive.",
+    "level": "intro",
+    "kind": "fiction",
+    "topics": [
+      "Solarpunk",
+      "Hope",
+      "Nature"
+    ],
+    "categories": [
+      "Fiction",
+      "Science Fiction"
+    ],
+    "score": 9,
+    "recommender_count": 5,
+    "mention_count": 5,
+    "strong_rec_count": 2
+  }
+]

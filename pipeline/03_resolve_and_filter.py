@@ -198,12 +198,15 @@ def resolve_and_filter():
         if not work_key:
             continue  # Skip unresolved books
         
-        # Add mention to this book
+        # Add mention to this book (convert timestamp to int)
         mention_data = {
             **mention,
             "resolved_title": resolved["title"],
             "resolved_author": resolved["author"]
         }
+        # Convert timestamp to unix timestamp if it's not already an int
+        if hasattr(mention_data["time"], "timestamp"):
+            mention_data["time"] = int(mention_data["time"].timestamp())
         book_to_mentions[work_key].append(mention_data)
     
     print(f"✓ Resolved to {len(book_to_mentions)} unique books\n")
